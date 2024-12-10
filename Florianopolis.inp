@@ -1,0 +1,2127 @@
+[TITLE]
+
+
+[JUNCTIONS]
+;ID              	Elev        	Demand      	Pattern         
+ 1               	12.60       	1.57        	consumo         	;
+ 2               	5.94        	2.29        	consumo         	;
+ 3               	6.18        	2.57        	consumo         	;
+ 4               	6.48        	2.29        	consumo         	;
+ 5               	6.44        	0.54        	consumo         	;
+ 6               	2.85        	0.32        	consumo         	;
+ 7               	2.71        	1.00        	consumo         	;
+ 8               	2.66        	3.14        	consumo         	;
+ 9               	2.55        	0.54        	consumo         	;
+ 10              	2.94        	0.46        	consumo         	;
+ 11              	2.94        	1.39        	consumo         	;
+ 12              	2.70        	0.82        	consumo         	;
+ 13              	3.08        	1.07        	consumo         	;
+ 14              	8.48        	0.93        	consumo         	;
+ 15              	6.81        	1.29        	consumo         	;
+ 16              	2.70        	0.54        	consumo         	;
+ 17              	2.42        	0.18        	consumo         	;
+ 18              	2.54        	0.21        	consumo         	;
+ 19              	2.77        	1.57        	consumo         	;
+ 20              	2.47        	1.18        	consumo         	;
+ 21              	2.27        	0.82        	consumo         	;
+ 22              	2.53        	1.11        	consumo         	;
+ 23              	2.82        	0.36        	consumo         	;
+ 24              	2.70        	0.39        	consumo         	;
+ 25              	2.68        	0.61        	consumo         	;
+ 26              	2.38        	0.25        	consumo         	;
+ 27              	2.85        	0.46        	consumo         	;
+ 28              	2.58        	1.07        	consumo         	;
+ 29              	2.53        	0.29        	consumo         	;
+ 30              	2.49        	0.14        	consumo         	;
+ 31              	2.39        	0.32        	consumo         	;
+ 32              	2.83        	1.29        	consumo         	;
+ 33              	3.98        	0.68        	consumo         	;
+ 34              	4.04        	0.00        	consumo         	;
+ 35              	3.92        	0.54        	consumo         	;
+ 36              	4.28        	0.50        	consumo         	;
+ 37              	5.30        	0.50        	consumo         	;
+ 38              	5.39        	0.50        	consumo         	;
+ 39              	4.92        	0.93        	consumo         	;
+ 40              	5.59        	0.32        	consumo         	;
+ 41              	4.90        	0.00        	consumo         	;
+ 45              	5.94        	2.99        	consumo         	;
+ 46              	10.79       	0.00        	consumo         	;
+ 47              	11.50       	0.00        	consumo         	;
+ 49              	8.18        	1.47        	consumo         	;
+ 50              	8.03        	1.15        	consumo         	;
+ 51              	12.46       	2.82        	consumo         	;
+ 52              	9.10        	1.75        	consumo         	;
+ 53              	10.26       	0.25        	consumo         	;
+ 54              	10.79       	0.57        	consumo         	;
+ 55              	10.28       	0.14        	consumo         	;
+ 56              	10.19       	0.14        	consumo         	;
+ 57              	9.78        	4.72        	consumo         	;
+ 58              	3.76        	1.61        	consumo         	;
+ 59              	3.58        	1.04        	consumo         	;
+ 60              	2.79        	0.57        	consumo         	;
+ 62              	1.86        	0.71        	consumo         	;
+ 63              	2.38        	1.04        	consumo         	;
+ 64              	10.53       	1.07        	consumo         	;
+ 65              	11.17       	0.79        	consumo         	;
+ 66              	7.90        	2.25        	consumo         	;
+ 67              	3.72        	0.68        	consumo         	;
+ 68              	1.89        	1.29        	consumo         	;
+ 69              	3.43        	0.07        	consumo         	;
+ 70              	12.10       	0.14        	consumo         	;
+ 71              	4.95        	0.11        	consumo         	;
+ 72              	1.84        	2.39        	consumo         	;
+ 73              	2.43        	0.18        	consumo         	;
+ 75              	2.45        	0.29        	consumo         	;
+ 76              	2.81        	2.29        	consumo         	;
+ 77              	3.12        	2.32        	consumo         	;
+ 78              	4.93        	1.29        	consumo         	;
+ 79              	7.35        	0.75        	consumo         	;
+ 80              	2.44        	2.22        	consumo         	;
+ 81              	1.90        	2.07        	consumo         	;
+ 82              	3.42        	2.00        	consumo         	;
+ 83              	1.75        	0.93        	consumo         	;
+ 84              	2.16        	1.47        	consumo         	;
+ 85              	2.60        	0.68        	consumo         	;
+ 86              	3.29        	1.04        	consumo         	;
+ 87              	4.24        	1.07        	consumo         	;
+ 88              	4.97        	0.46        	consumo         	;
+ 89              	5.23        	1.29        	consumo         	;
+ 90              	5.69        	0.36        	consumo         	;
+ 91              	6.59        	0.93        	consumo         	;
+ 92              	7.41        	0.46        	consumo         	;
+ 93              	8.40        	0.43        	consumo         	;
+ 94              	8.54        	0.79        	consumo         	;
+ 95              	5.11        	2.57        	consumo         	;
+ 96              	3.96        	5.15        	consumo         	;
+ 97              	1.60        	3.43        	consumo         	;
+ 98              	2.20        	0.75        	consumo         	;
+ 99              	2.16        	3.82        	consumo         	;
+ 100             	3.14        	0.75        	consumo         	;
+ 101             	11.20       	1.64        	consumo         	;
+ 102             	1.89        	4.25        	consumo         	;
+ 103             	3.88        	2.64        	consumo         	;
+ 104             	6.45        	1.00        	consumo         	;
+ 105             	6.51        	1.68        	consumo         	;
+ 106             	10.44       	1.18        	consumo         	;
+ 107             	2.29        	0.79        	consumo         	;
+ 108             	2.34        	0.50        	consumo         	;
+ 109             	2.38        	1.04        	consumo         	;
+ 110             	2.00        	3.00        	consumo         	;
+ 111             	1.58        	0.04        	consumo         	;
+ 112             	3.83        	0.00        	consumo         	;
+ 113             	4.49        	0.93        	consumo         	;
+ 114             	4.87        	0.46        	consumo         	;
+ 115             	5.37        	1.14        	consumo         	;
+ 116             	7.08        	1.57        	consumo         	;
+ 117             	8.70        	2.32        	consumo         	;
+ 118             	8.94        	0.82        	consumo         	;
+ 119             	9.21        	0.39        	consumo         	;
+ 120             	9.49        	0.43        	consumo         	;
+ 121             	10.36       	1.47        	consumo         	;
+ 122             	10.73       	0.29        	consumo         	;
+ 123             	10.20       	0.61        	consumo         	;
+ 124             	8.30        	1.39        	consumo         	;
+ 125             	9.98        	0.46        	consumo         	;
+ 126             	13.41       	0.57        	consumo         	;
+ 127             	14.62       	0.36        	consumo         	;
+ 128             	13.15       	0.21        	consumo         	;
+ 129             	11.03       	0.18        	consumo         	;
+ 130             	10.78       	0.32        	consumo         	;
+ 131             	12.32       	0.57        	consumo         	;
+ 132             	13.04       	0.25        	consumo         	;
+ 133             	12.51       	0.11        	consumo         	;
+ 134             	10.85       	0.43        	consumo         	;
+ 135             	9.64        	0.25        	consumo         	;
+ 136             	10.25       	0.46        	consumo         	;
+ 137             	11.21       	0.29        	consumo         	;
+ 138             	12.46       	2.50        	consumo         	;
+ 139             	8.64        	1.32        	consumo         	;
+ 140             	8.36        	0.64        	consumo         	;
+ 141             	7.56        	0.39        	consumo         	;
+ 142             	7.95        	0.53        	consumo         	;
+ 143             	6.99        	0.29        	consumo         	;
+ 144             	7.42        	4.74        	consumo         	;
+ 145             	8.14        	1.39        	consumo         	;
+ 146             	8.20        	4.79        	consumo         	;
+ 147             	8.13        	2.29        	consumo         	;
+ 148             	8.27        	3.76        	consumo         	;
+ 149             	8.33        	0.41        	consumo         	;
+ 150             	8.47        	0.29        	consumo         	;
+ 151             	8.47        	2.00        	consumo         	;
+ 152             	8.74        	3.93        	consumo         	;
+ 153             	10.14       	0.61        	consumo         	;
+ 154             	9.67        	0.82        	consumo         	;
+ 155             	9.88        	0.90        	consumo         	;
+ 156             	8.87        	1.84        	consumo         	;
+ 157             	7.76        	1.27        	consumo         	;
+ 158             	11.56       	3.80        	consumo         	;
+ 159             	11.13       	0.90        	consumo         	;
+ 160             	10.24       	1.92        	consumo         	;
+ 162             	8.16        	0.00        	consumo         	;
+ 164             	7.75        	0.00        	consumo         	;
+ 166             	7.75        	0.00        	consumo         	;
+ 167             	8.26        	0.00        	consumo         	;
+ 168             	8.49        	0.00        	consumo         	;
+ 169             	9.02        	0.00        	consumo         	;
+ 171             	8.72        	0.00        	consumo         	;
+ 172             	8.41        	0.00        	consumo         	;
+ 173             	9.33        	0.00        	consumo         	;
+ 174             	9.34        	0.00        	consumo         	;
+ 175             	9.16        	0.00        	consumo         	;
+ 176             	9.42        	0.00        	consumo         	;
+ 177             	9.48        	0.00        	consumo         	;
+ 178             	10.02       	0.00        	consumo         	;
+ 180             	9.51        	0.00        	consumo         	;
+ 181             	10.06       	0.00        	consumo         	;
+ 182             	9.36        	0.00        	consumo         	;
+ 183             	9.88        	0.00        	consumo         	;
+ 184             	8.40        	0.00        	consumo         	;
+ 185             	9.16        	0.00        	consumo         	;
+ 186             	7.10        	1.68        	consumo         	;
+ 187             	5.64        	1.92        	consumo         	;
+ 188             	5.25        	0.45        	consumo         	;
+ 189             	5.12        	0.49        	consumo         	;
+ 190             	4.66        	0.70        	consumo         	;
+ 191             	4.54        	0.70        	consumo         	;
+ 192             	4.26        	1.06        	consumo         	;
+ 193             	7.38        	11.37       	consumo         	;
+ 194             	10.00       	0.08        	consumo         	;
+ 195             	10.00       	0.61        	consumo         	;
+ 196             	8.49        	0.33        	consumo         	;
+ 197             	7.92        	0.45        	consumo         	;
+ 198             	7.70        	1.06        	consumo         	;
+ 199             	8.26        	0.70        	consumo         	;
+ 200             	8.72        	0.00        	consumo         	;
+ 201             	9.09        	0.00        	consumo         	;
+ 202             	9.40        	0.04        	consumo         	;
+ 203             	9.17        	0.00        	consumo         	;
+ 204             	9.42        	3.15        	consumo         	;
+ 205             	8.90        	2.94        	consumo         	;
+ 206             	7.93        	1.76        	consumo         	;
+ 207             	8.02        	0.65        	consumo         	;
+ 208             	10.86       	1.64        	consumo         	;
+ 209             	6.85        	0.29        	consumo         	;
+ 210             	5.75        	0.12        	consumo         	;
+ 211             	5.88        	1.92        	consumo         	;
+ 212             	5.11        	2.86        	consumo         	;
+ 213             	6.58        	3.15        	consumo         	;
+ 214             	6.84        	0.90        	consumo         	;
+ 215             	6.95        	1.88        	consumo         	;
+ 216             	6.30        	0.70        	consumo         	;
+ 217             	7.83        	0.00        	consumo         	;
+ 218             	7.67        	0.00        	consumo         	;
+ 219             	8.60        	0.00        	consumo         	;
+ 220             	8.88        	0.00        	consumo         	;
+ 221             	8.21        	0.16        	consumo         	;
+ 222             	9.12        	0.16        	consumo         	;
+ 223             	11.21       	0.00        	consumo         	;
+ 224             	11.38       	0.08        	consumo         	;
+ 225             	9.46        	0.00        	consumo         	;
+ 226             	9.46        	0.04        	consumo         	;
+ 227             	9.26        	0.00        	consumo         	;
+ 228             	5.55        	0.00        	consumo         	;
+ 229             	5.60        	0.00        	consumo         	;
+ 230             	5.73        	0.00        	consumo         	;
+ 231             	6.04        	4.38        	consumo         	;
+ 232             	7.29        	0.90        	consumo         	;
+ 233             	7.97        	3.03        	consumo         	;
+ 234             	7.87        	0.78        	consumo         	;
+ 235             	7.45        	7.65        	consumo         	;
+ 236             	5.86        	0.25        	consumo         	;
+ 237             	5.43        	0.45        	consumo         	;
+ 238             	5.36        	3.97        	consumo         	;
+ 239             	5.47        	0.04        	consumo         	;
+ 240             	6.52        	0.53        	consumo         	;
+ 241             	6.60        	0.00        	consumo         	;
+ 242             	6.51        	0.12        	consumo         	;
+ 243             	10.15       	0.49        	consumo         	;
+ 244             	5.20        	0.53        	consumo         	;
+ 245             	4.77        	0.37        	consumo         	;
+ 246             	7.31        	0.25        	consumo         	;
+ 247             	8.51        	1.27        	consumo         	;
+ 248             	13.75       	0.94        	consumo         	;
+ 249             	11.50       	1.35        	consumo         	;
+ 250             	9.22        	0.65        	consumo         	;
+ 251             	5.92        	0.41        	consumo         	;
+ 252             	5.58        	1.10        	consumo         	;
+ 253             	5.33        	2.86        	consumo         	;
+ 254             	9.87        	0.16        	consumo         	;
+ 255             	4.77        	0.82        	consumo         	;
+ 256             	4.47        	0.45        	consumo         	;
+ 257             	4.57        	1.31        	consumo         	;
+ 258             	4.66        	1.15        	consumo         	;
+ 259             	4.73        	0.82        	consumo         	;
+ 260             	4.92        	0.78        	consumo         	;
+ 261             	5.00        	0.33        	consumo         	;
+ 262             	6.94        	0.65        	consumo         	;
+ 263             	8.21        	0.74        	consumo         	;
+ 264             	8.53        	12.97       	consumo         	;
+ 265             	9.06        	1.68        	consumo         	;
+ 266             	11.30       	6.34        	consumo         	;
+ 267             	14.77       	1.15        	consumo         	;
+ 268             	13.48       	0.65        	consumo         	;
+ 269             	9.73        	0.20        	consumo         	;
+ 270             	7.94        	3.44        	consumo         	;
+ 271             	6.88        	1.02        	consumo         	;
+ 272             	6.07        	1.10        	consumo         	;
+ 273             	6.23        	0.37        	consumo         	;
+ 274             	6.66        	3.60        	consumo         	;
+ 275             	5.78        	1.31        	consumo         	;
+ 276             	5.67        	0.61        	consumo         	;
+ 277             	5.59        	1.31        	consumo         	;
+ 278             	5.34        	0.49        	consumo         	;
+ 279             	5.30        	2.58        	consumo         	;
+ 280             	5.97        	0.00        	consumo         	;
+ 281             	6.13        	1.31        	consumo         	;
+ 282             	5.71        	1.72        	consumo         	;
+ 283             	5.54        	0.53        	consumo         	;
+ 284             	5.60        	0.90        	consumo         	;
+ 285             	5.68        	0.49        	consumo         	;
+ 286             	9.80        	0.78        	consumo         	;
+ 287             	10.79       	0.53        	consumo         	;
+ 288             	11.30       	1.43        	consumo         	;
+ 289             	16.63       	1.88        	consumo         	;
+ 290             	16.63       	0.61        	consumo         	;
+ 291             	16.27       	1.39        	consumo         	;
+ 292             	16.27       	1.68        	consumo         	;
+ 293             	15.10       	0.45        	consumo         	;
+ 294             	15.15       	1.06        	consumo         	;
+ 295             	11.29       	0.61        	consumo         	;
+ 296             	9.69        	0.90        	consumo         	;
+ 297             	6.45        	0.04        	consumo         	;
+ 298             	8.72        	4.01        	consumo         	;
+ 299             	7.96        	0.20        	consumo         	;
+ 300             	6.63        	6.38        	consumo         	;
+ 301             	5.22        	4.74        	consumo         	;
+ 302             	4.06        	2.05        	consumo         	;
+ 303             	4.91        	3.11        	consumo         	;
+ 304             	5.53        	0.53        	consumo         	;
+ 305             	3.44        	4.29        	consumo         	;
+ 306             	2.20        	0.53        	consumo         	;
+ 307             	4.20        	2.29        	consumo         	;
+ 308             	5.16        	2.78        	consumo         	;
+ 309             	4.45        	14.97       	consumo         	;
+ 310             	5.56        	1.80        	consumo         	;
+ 311             	6.41        	1.06        	consumo         	;
+ 312             	7.30        	0.82        	consumo         	;
+ 313             	6.78        	0.53        	consumo         	;
+ 314             	7.54        	0.49        	consumo         	;
+ 315             	20.31       	0.33        	consumo         	;
+ 316             	23.60       	0.37        	consumo         	;
+ 317             	24.77       	0.16        	consumo         	;
+ 318             	19.84       	0.20        	consumo         	;
+ 319             	18.11       	0.65        	consumo         	;
+ 320             	14.51       	2.41        	consumo         	;
+ 321             	13.57       	0.57        	consumo         	;
+ 322             	12.30       	0.12        	consumo         	;
+ 323             	10.71       	1.76        	consumo         	;
+ 324             	9.69        	1.27        	consumo         	;
+ 325             	10.02       	0.90        	consumo         	;
+ 326             	10.58       	1.51        	consumo         	;
+ 327             	11.26       	1.96        	consumo         	;
+ 328             	11.16       	1.15        	consumo         	;
+ 329             	10.71       	0.37        	consumo         	;
+ 330             	9.13        	1.43        	consumo         	;
+ 331             	5.21        	0.00        	consumo         	;
+ 332             	8.48        	1.31        	consumo         	;
+ 333             	9.02        	3.56        	consumo         	;
+ 334             	9.89        	0.61        	consumo         	;
+ 335             	10.98       	0.94        	consumo         	;
+ 336             	11.05       	1.02        	consumo         	;
+ 337             	11.04       	3.19        	consumo         	;
+ 338             	12.17       	0.94        	consumo         	;
+ 339             	12.53       	0.49        	consumo         	;
+ 340             	13.14       	4.58        	consumo         	;
+ 341             	14.53       	0.90        	consumo         	;
+ 342             	16.66       	0.16        	consumo         	;
+ 343             	16.79       	10.14       	consumo         	;
+ 344             	21.29       	2.54        	consumo         	;
+ 345             	16.26       	0.94        	consumo         	;
+ 346             	11.18       	2.29        	consumo         	;
+ 347             	10.50       	2.29        	consumo         	;
+ 348             	11.22       	2.37        	consumo         	;
+ 349             	10.47       	0.00        	consumo         	;
+ 350             	11.31       	1.74        	consumo         	;
+ 351             	3.16        	0.55        	consumo         	;
+ 352             	15.47       	0.72        	consumo         	;
+ 353             	18.74       	1.36        	consumo         	;
+ 354             	17.26       	0.68        	consumo         	;
+ 356             	9.41        	2.08        	consumo         	;
+ 357             	8.92        	0.94        	consumo         	;
+ 358             	5.52        	2.72        	consumo         	;
+ 359             	5.99        	2.59        	consumo         	;
+ 360             	49.79       	0.64        	consumo         	;
+ 361             	7.07        	4.00        	consumo         	;
+ 362             	3.88        	1.96        	consumo         	;
+ 363             	2.19        	7.61        	consumo         	;
+ 364             	16.98       	4.63        	consumo         	;
+ 365             	18.46       	2.47        	consumo         	;
+ 366             	16.47       	0.68        	consumo         	;
+ 367             	8.19        	0.51        	consumo         	;
+ 368             	4.50        	1.23        	consumo         	;
+ 369             	18.55       	0.34        	consumo         	;
+ 370             	5.19        	0.38        	consumo         	;
+ 371             	7.93        	2.64        	consumo         	;
+ 372             	11.56       	7.99        	consumo         	;
+ 373             	8.11        	0.47        	consumo         	;
+ 374             	9.02        	0.30        	consumo         	;
+ 375             	7.81        	0.04        	consumo         	;
+ 376             	6.98        	0.43        	consumo         	;
+ 377             	6.05        	0.81        	consumo         	;
+ 378             	5.86        	0.47        	consumo         	;
+ 379             	6.68        	0.38        	consumo         	;
+ 380             	6.63        	1.02        	consumo         	;
+ 381             	6.54        	0.55        	consumo         	;
+ 382             	6.86        	0.38        	consumo         	;
+ 383             	7.05        	0.85        	consumo         	;
+ 384             	7.73        	2.13        	consumo         	;
+ 385             	8.23        	1.11        	consumo         	;
+ 386             	9.40        	0.94        	consumo         	;
+ 387             	10.88       	1.62        	consumo         	;
+ 388             	27.19       	0.47        	consumo         	;
+ 389             	22.63       	1.15        	consumo         	;
+ 390             	21.13       	0.68        	consumo         	;
+ 391             	10.98       	0.38        	consumo         	;
+ 392             	8.98        	0.30        	consumo         	;
+ 393             	8.64        	0.81        	consumo         	;
+ 394             	15.91       	1.45        	consumo         	;
+ 395             	11.67       	2.08        	consumo         	;
+ 396             	1.95        	2.85        	consumo         	;
+ 397             	6.03        	4.12        	consumo         	;
+ 398             	2.20        	3.40        	consumo         	;
+ 399             	1.51        	3.36        	consumo         	;
+ 400             	1.81        	1.23        	consumo         	;
+ 401             	1.16        	2.64        	consumo         	;
+ 402             	1.19        	1.15        	consumo         	;
+ 403             	1.10        	2.08        	consumo         	;
+ 404             	1.11        	0.81        	consumo         	;
+ 405             	1.03        	2.08        	consumo         	;
+ 406             	1.42        	1.57        	consumo         	;
+ 407             	1.75        	2.04        	consumo         	;
+ 408             	0.96        	3.87        	consumo         	;
+ 409             	1.56        	0.38        	consumo         	;
+ 410             	1.77        	0.55        	consumo         	;
+ 411             	1.63        	0.89        	consumo         	;
+ 412             	11.69       	1.06        	consumo         	;
+ 413             	9.85        	0.81        	consumo         	;
+ 414             	17.10       	11.22       	consumo         	;
+ 415             	1.08        	1.49        	consumo         	;
+ 416             	1.20        	2.21        	consumo         	;
+ 417             	1.16        	0.81        	consumo         	;
+ 418             	1.22        	0.77        	consumo         	;
+ 419             	0.99        	0.77        	consumo         	;
+ 420             	0.92        	0.94        	consumo         	;
+ 421             	1.26        	0.77        	consumo         	;
+ 422             	1.22        	0.765       	consumo         	;
+ 423             	1.13        	1.02        	consumo         	;
+ 424             	1.22        	0.47        	consumo         	;
+ 425             	1.12        	0.09        	consumo         	;
+ 426             	1.12        	0.13        	consumo         	;
+ 427             	2.11        	0.17        	consumo         	;
+ 428             	7.60        	0.17        	consumo         	;
+ 429             	14.74       	0.72        	consumo         	;
+ 430             	43.01       	3.57        	consumo         	;
+ 432             	17.47       	1.03        	consumo         	;
+ 433             	1.64        	14.59       	consumo         	;
+ 434             	1.53        	0.85        	consumo         	;
+ 435             	1.67        	3.25        	consumo         	;
+ 436             	2.07        	0.85        	consumo         	;
+ 437             	1.99        	0.48        	consumo         	;
+ 438             	1.98        	0.41        	consumo         	;
+ 439             	2.04        	0.52        	consumo         	;
+ 440             	2.32        	0.52        	consumo         	;
+ 441             	2.18        	1.92        	consumo         	;
+ 442             	2.12        	0.78        	consumo         	;
+ 443             	2.09        	4.54        	consumo         	;
+ 444             	2.00        	0.55        	consumo         	;
+ 445             	1.84        	0.74        	consumo         	;
+ 446             	1.77        	0.85        	consumo         	;
+ 447             	1.92        	1.55        	consumo         	;
+ 448             	2.06        	1.26        	consumo         	;
+ 449             	2.11        	2.11        	consumo         	;
+ 450             	18.42       	0.17        	consumo         	;
+ 451             	16.67       	0.55        	consumo         	;
+ 452             	4.15        	0.00        	consumo         	;
+ 453             	1.95        	1.07        	consumo         	;
+ 454             	1.88        	0.93        	consumo         	;
+ 455             	1.70        	0.93        	consumo         	;
+ 456             	19.40       	1.04        	consumo         	;
+ 457             	23.47       	0.07        	consumo         	;
+ 458             	23.49       	0.82        	consumo         	;
+ 459             	23.30       	1.32        	consumo         	;
+ 460             	22.80       	0.21        	consumo         	;
+ 461             	22.42       	1.97        	consumo         	;
+ 462             	19.53       	1.75        	consumo         	;
+ 463             	17.52       	4.68        	consumo         	;
+ 464             	16.51       	2.29        	consumo         	;
+ 465             	23.47       	0.00        	consumo         	;
+ 466             	21.99       	0.18        	consumo         	;
+ 467             	13.34       	0.00        	consumo         	;
+ 468             	6.06        	0.54        	consumo         	;
+ 469             	18.91       	0.64        	consumo         	;
+ 470             	1.36        	0.14        	consumo         	;
+ 471             	1.28        	0.89        	consumo         	;
+ 472             	0.93        	1.89        	consumo         	;
+ 473             	2.28        	0.49        	consumo         	;
+ 474             	2.48        	12.97       	consumo         	;
+ 475             	2.41        	2.49        	consumo         	;
+ 497             	1.83        	0.64        	consumo         	;
+ 498             	3.62        	0.43        	consumo         	;
+ 499             	3.20        	0.39        	consumo         	;
+ 500             	3.74        	0.25        	consumo         	;
+ 501             	4.50        	0.18        	consumo         	;
+ 502             	4.42        	0.32        	consumo         	;
+ 503             	4.55        	0.04        	consumo         	;
+ 504             	4.69        	0.36        	consumo         	;
+ 505             	4.71        	1.36        	consumo         	;
+ 506             	4.05        	0.50        	consumo         	;
+ 507             	3.85        	0.50        	consumo         	;
+ 508             	3.68        	1.29        	consumo         	;
+ 509             	3.03        	1.18        	consumo         	;
+ 510             	2.39        	1.04        	consumo         	;
+ 511             	2.77        	0.54        	consumo         	;
+ 512             	3.11        	0.68        	consumo         	;
+ 513             	3.46        	0.64        	consumo         	;
+ 514             	4.58        	0.32        	consumo         	;
+ 515             	4.27        	0.64        	consumo         	;
+ 516             	4.15        	0.54        	consumo         	;
+ 517             	3.64        	1.04        	consumo         	;
+ 518             	2.78        	4.47        	consumo         	;
+ 519             	2.22        	0.75        	consumo         	;
+ 520             	2.05        	0.79        	consumo         	;
+ 521             	1.90        	0.14        	consumo         	;
+ 522             	1.89        	0.25        	consumo         	;
+ 523             	1.96        	1.82        	consumo         	;
+ 524             	5.43        	4.97        	consumo         	;
+ 525             	6.07        	0.82        	consumo         	;
+ 526             	6.23        	0.96        	consumo         	;
+ 527             	28.24       	4.54        	consumo         	;
+ 528             	3.27        	0.71        	consumo         	;
+ 529             	5.37        	0.82        	consumo         	;
+ 530             	1.69        	1.64        	consumo         	;
+ 531             	1.87        	0.96        	consumo         	;
+ 532             	1.11        	4.68        	consumo         	;
+ 533             	2.29        	0.29        	consumo         	;
+ 534             	2.98        	1.18        	consumo         	;
+ 535             	3.94        	4.00        	consumo         	;
+ 536             	2.67        	2.97        	consumo         	;
+ 537             	2.38        	0.75        	consumo         	;
+ 538             	2.54        	0.75        	consumo         	;
+ 539             	2.53        	0.71        	consumo         	;
+ 540             	2.63        	1.21        	consumo         	;
+ 541             	2.50        	1.00        	consumo         	;
+ 542             	2.18        	0.93        	consumo         	;
+ 543             	2.57        	0.79        	consumo         	;
+ 544             	2.58        	0.21        	consumo         	;
+ 545             	2.52        	1.14        	consumo         	;
+ 546             	2.53        	1.07        	consumo         	;
+ 547             	2.59        	0.96        	consumo         	;
+ 548             	2.50        	0.61        	consumo         	;
+ 549             	2.49        	0.50        	consumo         	;
+ 550             	2.46        	0.68        	consumo         	;
+ 551             	2.62        	0.29        	consumo         	;
+ 552             	2.59        	1.50        	consumo         	;
+ 553             	4.02        	3.29        	consumo         	;
+ 554             	2.47        	0.25        	consumo         	;
+ 555             	4.94        	0.57        	consumo         	;
+ 556             	5.11        	0.39        	consumo         	;
+ 557             	4.96        	0.57        	consumo         	;
+ 558             	4.36        	0.25        	consumo         	;
+ 559             	5.28        	0.29        	consumo         	;
+ 560             	6.71        	2.45        	consumo         	;
+ 561             	6.15        	2.54        	consumo         	;
+ 562             	6.45        	1.60        	consumo         	;
+ 563             	6.78        	0.61        	consumo         	;
+ 564             	7.65        	0.16        	consumo         	;
+ 565             	9.40        	1.88        	consumo         	;
+ 566             	11.19       	2.94        	consumo         	;
+ 567             	10.88       	0.41        	consumo         	;
+ 568             	11.61       	0.37        	consumo         	;
+ 569             	11.59       	0.70        	consumo         	;
+ 570             	12.30       	0.90        	consumo         	;
+ 571             	24.53       	0.45        	consumo         	;
+ 572             	19.55       	5.24        	consumo         	;
+ 573             	21.15       	0.57        	consumo         	;
+ 574             	20.57       	0.12        	consumo         	;
+ 575             	8.25        	0.53        	consumo         	;
+ 576             	10.62       	0.12        	consumo         	;
+ 577             	2.00        	0.82        	consumo         	;
+ 578             	1.80        	9.29        	consumo         	;
+ 579             	1.83        	0.82        	consumo         	;
+ 580             	1.88        	3.68        	consumo         	;
+ 581             	2.40        	0.89        	consumo         	;
+ 582             	2.27        	2.47        	consumo         	;
+ 583             	2.26        	0.39        	consumo         	;
+ 584             	2.27        	0.71        	consumo         	;
+ 585             	24.34       	0.14        	consumo         	;
+ 586             	27.24       	0.21        	consumo         	;
+ 587             	29.29       	0.21        	consumo         	;
+ 588             	36.72       	2.86        	consumo         	;
+ 589             	10.79       	2.86        	consumo         	;
+ 590             	10.58       	0.11        	consumo         	;
+ 591             	8.52        	0.89        	consumo         	;
+ 592             	6.34        	1.29        	consumo         	;
+ 593             	6.03        	0.50        	consumo         	;
+ 594             	6.04        	1.36        	consumo         	;
+ 595             	6.94        	4.25        	consumo         	;
+ 596             	14.27       	4.25        	consumo         	;
+ 597             	20.91       	0.79        	consumo         	;
+ 634             	1.06        	0.96        	consumo         	;
+ 635             	1.05        	1.07        	consumo         	;
+ 636             	0.92        	1.26        	consumo         	;
+ 637             	1.64        	2.62        	consumo         	;
+ 638             	1.80        	0.00        	consumo         	;
+ 639             	1.85        	0.00        	consumo         	;
+ 640             	2.09        	2.25        	consumo         	;
+ 641             	1.92        	0.26        	consumo         	;
+ 642             	2.20        	0.30        	consumo         	;
+ 643             	2.11        	0.33        	consumo         	;
+ 644             	2.01        	0.96        	consumo         	;
+ 645             	2.31        	6.65        	consumo         	;
+ 646             	2.10        	2.07        	consumo         	;
+ 647             	2.22        	1.07        	consumo         	;
+ 648             	2.10        	1.74        	consumo         	;
+ 649             	2.18        	6.87        	consumo         	;
+ 651             	6.88        	0.14        	consumo         	;
+ 652             	2.76        	0.14        	consumo         	;
+ 653             	5.35        	0.79        	consumo         	;
+ 654             	1.65        	1.32        	consumo         	;
+ 655             	1.61        	0.07        	consumo         	;
+ 656             	2.26        	0.25        	consumo         	;
+ 657             	3.63        	0.43        	consumo         	;
+ 658             	3.09        	0.29        	consumo         	;
+ 659             	3.05        	0.32        	consumo         	;
+ 660             	3.55        	0.68        	consumo         	;
+ 661             	4.45        	0.75        	consumo         	;
+ 662             	4.35        	0.89        	consumo         	;
+ 663             	4.51        	1.14        	consumo         	;
+ 664             	4.64        	0.07        	consumo         	;
+ 665             	6.00        	1.15        	consumo         	;
+ 666             	5.74        	1.15        	consumo         	;
+ 667             	8.37        	1.28        	consumo         	;
+ 668             	17.50       	0.00        	consumo         	;
+ 670             	2.11        	7.82        	consumo         	;
+ 671             	1.07        	2.43        	consumo         	;
+ 672             	1.43        	11.26       	consumo         	;
+ 673             	14.91       	4.97        	consumo         	;
+ 674             	13.71       	3.89        	consumo         	;
+ 675             	12.54       	17.51       	consumo         	;
+ 676             	5.52        	1.51        	consumo         	;
+ 677             	5.99        	1.80        	consumo         	;
+ 678             	5.85        	0.12        	consumo         	;
+ 679             	6.39        	5.36        	consumo         	;
+ 681             	10.47       	0.00        	consumo         	;
+ 682             	10.47       	0.00        	consumo         	;
+ 683             	10.47       	0.00        	consumo         	;
+ 684             	7.60        	0.00        	consumo         	;
+ 685             	7.60        	0.00        	consumo         	;
+ 686             	7.60        	0.00        	consumo         	;
+ 43              	3.42        	0           	                	;
+ 44              	1.90        	0           	                	;
+ 476             	1.70        	0           	                	;
+ 477             	1.88        	0           	                	;
+ 478             	9.48        	0           	                	;
+ 479             	9.48        	0           	                	;
+
+[RESERVOIRS]
+;ID              	Head        	Pattern         
+ 42              	14.7        	                	;
+ 161             	0           	                	;
+ 163             	0           	                	;
+ 165             	0           	                	;
+ 170             	0           	                	;
+ 179             	0           	                	;
+
+[TANKS]
+;ID              	Elevation   	InitLevel   	MinLevel    	MaxLevel    	Diameter    	MinVol      	VolCurve
+ 48              	69          	2.22        	0           	4.2         	39          	0           	                	;
+ 61              	52.93       	0.54        	0           	3.5         	20.60       	0           	                	;
+ 74              	39.95       	0           	0           	5           	25          	0           	                	;
+ 355             	71.66       	2.66        	0           	5           	22.56       	0           	                	;
+ 431             	78.12       	1.65        	0           	5           	15.9576     	0           	                	;
+
+[PIPES]
+;ID              	Node1           	Node2           	Length      	Diameter    	Roughness   	MinorLoss   	Status
+ 1               	1               	2               	763         	150         	135         	0           	open  	;
+ 2               	2               	3               	150         	150         	135         	0           	open  	;
+ 3               	3               	4               	374         	200         	135         	0           	open  	;
+ 4               	4               	5               	17          	200         	135         	0           	open  	;
+ 5               	5               	6               	1387        	200         	135         	0           	open  	;
+ 6               	6               	7               	300         	200         	135         	0           	open  	;
+ 7               	7               	8               	120         	200         	135         	0           	open  	;
+ 8               	8               	9               	86          	200         	135         	0           	open  	;
+ 9               	9               	10              	62          	200         	135         	0           	open  	;
+ 10              	10              	11              	51          	200         	135         	0           	open  	;
+ 11              	11              	12              	647         	200         	135         	0           	open  	;
+ 12              	12              	13              	84          	200         	135         	0           	open  	;
+ 13              	13              	14              	242         	200         	135         	0           	open  	;
+ 14              	14              	15              	328         	200         	135         	0           	open  	;
+ 15              	15              	16              	210         	200         	135         	0           	open  	;
+ 16              	16              	17              	378         	200         	135         	0           	open  	;
+ 17              	17              	18              	38          	200         	135         	0           	open  	;
+ 18              	18              	19              	46          	200         	135         	0           	open  	;
+ 19              	19              	20              	92          	200         	135         	0           	open  	;
+ 20              	20              	21              	68          	200         	135         	0           	open  	;
+ 21              	21              	22              	69          	200         	135         	0           	open  	;
+ 22              	22              	23              	294         	200         	135         	0           	open  	;
+ 23              	23              	24              	116         	200         	135         	0           	open  	;
+ 24              	24              	25              	97          	200         	135         	0           	open  	;
+ 25              	25              	26              	41          	200         	135         	0           	open  	;
+ 26              	26              	27              	76          	200         	135         	0           	open  	;
+ 27              	27              	28              	246         	200         	135         	0           	open  	;
+ 28              	28              	29              	94          	200         	135         	0           	open  	;
+ 29              	29              	30              	178         	200         	135         	0           	open  	;
+ 30              	30              	31              	96          	250         	135         	0           	open  	;
+ 31              	31              	32              	63          	250         	135         	0           	open  	;
+ 32              	32              	33              	742         	250         	135         	0           	open  	;
+ 33              	33              	34              	30          	250         	135         	0           	open  	;
+ 34              	34              	35              	40          	250         	135         	0           	open  	;
+ 35              	35              	36              	220         	250         	135         	0           	open  	;
+ 36              	36              	37              	129         	250         	135         	0           	open  	;
+ 37              	37              	38              	37          	250         	135         	0           	open  	;
+ 38              	38              	39              	80          	250         	135         	0           	open  	;
+ 39              	39              	40              	897         	250         	135         	0           	open  	;
+ 40              	40              	41              	71          	500         	135         	0           	open  	;
+ 41              	40              	45              	1524        	400         	135         	0           	open  	;
+ 42              	45              	46              	582         	400         	135         	0           	open  	;
+ 43              	46              	47              	758         	400         	135         	0           	open  	;
+ 44              	47              	48              	365         	400         	135         	0           	open  	;
+ 45              	47              	49              	627         	400         	135         	0           	open  	;
+ 46              	49              	50              	156         	200         	135         	0           	open  	;
+ 47              	50              	51              	765         	200         	135         	0           	open  	;
+ 48              	51              	52              	1136        	200         	135         	0           	open  	;
+ 49              	52              	53              	122         	200         	135         	0           	open  	;
+ 50              	53              	54              	33          	200         	135         	0           	open  	;
+ 51              	54              	55              	91          	200         	135         	0           	open  	;
+ 52              	55              	56              	31          	250         	135         	0           	open  	;
+ 53              	56              	57              	106         	250         	135         	0           	open  	;
+ 54              	57              	58              	1544        	250         	135         	0           	open  	;
+ 55              	58              	59              	16          	250         	135         	0           	open  	;
+ 56              	59              	60              	404         	250         	135         	0           	open  	;
+ 57              	60              	61              	403         	250         	135         	0           	Open  	;
+ 58              	60              	62              	418         	250         	135         	0           	open  	;
+ 59              	62              	63              	211         	200         	135         	0           	open  	;
+ 60              	63              	64              	920         	200         	135         	0           	open  	;
+ 61              	64              	65              	42          	200         	135         	0           	open  	;
+ 62              	65              	66              	511         	200         	135         	0           	open  	;
+ 63              	66              	67              	509         	200         	135         	0           	open  	;
+ 64              	67              	68              	308         	200         	135         	0           	open  	;
+ 65              	68              	69              	46          	200         	135         	0           	open  	;
+ 66              	69              	70              	127         	200         	135         	0           	open  	;
+ 67              	70              	71              	89          	200         	135         	0           	open  	;
+ 68              	71              	72              	206         	200         	135         	0           	open  	;
+ 69              	72              	523             	67          	200         	135         	0           	open  	;
+ 70              	73              	74              	270         	200         	135         	0           	Closed	;
+ 71              	73              	75              	15          	200         	135         	0           	open  	;
+ 72              	75              	76              	1049        	200         	135         	0           	open  	;
+ 73              	76              	77              	708         	200         	135         	0           	open  	;
+ 74              	77              	78              	416         	200         	135         	0           	open  	;
+ 75              	78              	79              	123         	150         	135         	0           	open  	;
+ 76              	79              	80              	546         	150         	135         	0           	open  	;
+ 77              	80              	81              	673         	150         	135         	0           	open  	;
+ 78              	81              	82              	568         	150         	135         	0           	CV    	;
+ 79              	82              	83              	274         	150         	135         	0           	open  	;
+ 80              	83              	84              	40          	150         	135         	0           	open  	;
+ 81              	84              	85              	34          	150         	135         	0           	open  	;
+ 82              	85              	86              	15          	150         	135         	0           	open  	;
+ 83              	86              	87              	59          	150         	135         	0           	open  	;
+ 84              	87              	88              	26          	150         	135         	0           	open  	;
+ 85              	88              	89              	28          	150         	135         	0           	open  	;
+ 86              	89              	90              	58          	150         	135         	0           	open  	;
+ 87              	90              	91              	42          	150         	135         	0           	open  	;
+ 88              	91              	92              	45          	150         	135         	0           	open  	;
+ 89              	92              	93              	54          	150         	135         	0           	open  	;
+ 90              	93              	94              	30          	150         	135         	0           	open  	;
+ 91              	94              	95              	164         	150         	135         	0           	open  	;
+ 92              	95              	96              	923         	150         	135         	0           	open  	;
+ 93              	96              	97              	2043        	150         	135         	0           	open  	;
+ 94              	97              	98              	305         	150         	135         	0           	open  	;
+ 95              	98              	99              	441         	150         	135         	0           	open  	;
+ 96              	99              	100             	539         	150         	135         	0           	open  	;
+ 97              	100             	101             	414         	100         	130         	0           	open  	;
+ 98              	101             	102             	1052        	90          	140         	0           	open  	;
+ 99              	102             	103             	934         	75          	130         	0           	open  	;
+ 100             	103             	104             	893         	50          	130         	0           	open  	;
+ 101             	68              	72              	429         	100         	130         	0           	open  	;
+ 102             	68              	105             	817         	100         	130         	0           	open  	;
+ 103             	105             	106             	575         	100         	130         	0           	open  	;
+ 104             	106             	107             	631         	100         	130         	0           	open  	;
+ 105             	107             	108             	244         	75          	130         	0           	open  	;
+ 106             	108             	109             	90          	75          	130         	0           	open  	;
+ 107             	109             	110             	146         	75          	130         	0           	open  	;
+ 108             	110             	111             	73          	100         	130         	0           	open  	;
+ 109             	111             	112             	516         	100         	130         	0           	open  	;
+ 110             	112             	113             	523         	100         	130         	0           	open  	;
+ 111             	113             	114             	224         	100         	130         	0           	open  	;
+ 112             	114             	115             	140         	100         	130         	0           	open  	;
+ 113             	115             	116             	520         	100         	130         	0           	open  	;
+ 114             	116             	117             	180         	100         	130         	0           	open  	;
+ 115             	117             	118             	56          	100         	130         	0           	open  	;
+ 116             	118             	119             	65          	100         	130         	0           	open  	;
+ 117             	119             	120             	30          	100         	130         	0           	open  	;
+ 118             	120             	121             	184         	100         	130         	0           	open  	;
+ 119             	56              	122             	112         	200         	135         	0           	open  	;
+ 120             	122             	123             	45          	200         	135         	0           	open  	;
+ 121             	123             	124             	68          	200         	135         	0           	open  	;
+ 122             	124             	125             	115         	200         	135         	0           	open  	;
+ 123             	125             	126             	70          	200         	135         	0           	open  	;
+ 124             	126             	127             	33          	200         	135         	0           	open  	;
+ 125             	127             	128             	100         	200         	135         	0           	open  	;
+ 126             	128             	129             	50          	200         	135         	0           	open  	;
+ 127             	129             	130             	40          	200         	135         	0           	open  	;
+ 128             	130             	131             	356         	200         	135         	0           	open  	;
+ 129             	131             	132             	107         	200         	135         	0           	open  	;
+ 130             	132             	133             	27          	200         	135         	0           	open  	;
+ 131             	133             	134             	140         	200         	135         	0           	open  	;
+ 132             	134             	135             	67          	200         	135         	0           	open  	;
+ 133             	135             	136             	59          	200         	135         	0           	open  	;
+ 134             	136             	137             	37          	200         	135         	0           	open  	;
+ 135             	137             	138             	81          	200         	135         	0           	open  	;
+ 136             	138             	139             	186         	200         	135         	0           	open  	;
+ 137             	139             	140             	135         	200         	135         	0           	open  	;
+ 138             	140             	141             	138         	200         	135         	0           	open  	;
+ 139             	141             	142             	295         	200         	135         	0           	open  	;
+ 140             	142             	49              	142         	200         	135         	0           	open  	;
+ 141             	49              	143             	108         	300         	135         	0           	open  	;
+ 142             	143             	144             	43          	300         	135         	0           	open  	;
+ 143             	144             	145             	75          	300         	135         	0           	open  	;
+ 144             	145             	146             	67          	300         	135         	0           	open  	;
+ 145             	146             	147             	25          	300         	135         	0           	open  	;
+ 146             	147             	148             	35          	300         	135         	0           	open  	;
+ 147             	148             	149             	22          	300         	135         	0           	open  	;
+ 148             	149             	150             	23          	300         	135         	0           	open  	;
+ 149             	150             	151             	16          	300         	135         	0           	open  	;
+ 150             	151             	152             	37          	300         	135         	0           	open  	;
+ 151             	152             	153             	48          	300         	135         	0           	open  	;
+ 152             	153             	154             	35          	200         	135         	0           	open  	;
+ 153             	154             	155             	183         	200         	135         	0           	open  	;
+ 154             	155             	156             	246         	200         	135         	0           	open  	;
+ 155             	156             	45              	816         	200         	135         	0           	open  	;
+ 156             	45              	157             	70          	75          	130         	0           	open  	;
+ 157             	157             	158             	111         	75          	130         	0           	open  	;
+ 158             	158             	159             	66          	75          	130         	0           	open  	;
+ 159             	159             	160             	227         	75          	130         	0           	open  	;
+ 160             	160             	49              	1470        	75          	130         	0           	open  	;
+ 161             	161             	162             	20          	150         	135         	0           	open  	;
+ 162             	162             	164             	157         	150         	135         	0           	open  	;
+ 163             	163             	164             	25          	150         	135         	0           	open  	;
+ 164             	164             	166             	329         	200         	135         	0           	open  	;
+ 165             	165             	166             	30          	150         	135         	0           	open  	;
+ 166             	166             	167             	493         	250         	135         	0           	open  	;
+ 167             	167             	168             	65          	250         	135         	0           	open  	;
+ 168             	168             	169             	80          	150         	135         	0           	open  	;
+ 169             	169             	170             	30          	150         	135         	0           	open  	;
+ 170             	168             	171             	58          	300         	135         	0           	open  	;
+ 171             	171             	172             	70          	300         	135         	0           	open  	;
+ 172             	172             	173             	74          	300         	135         	0           	open  	;
+ 173             	173             	174             	20          	300         	135         	0           	open  	;
+ 174             	174             	175             	75          	300         	135         	0           	open  	;
+ 175             	175             	176             	31          	300         	135         	0           	open  	;
+ 176             	176             	479             	37          	300         	135         	0           	open  	;
+ 177             	173             	178             	123         	150         	135         	0           	open  	;
+ 178             	178             	179             	330         	150         	135         	0           	open  	;
+ 179             	180             	181             	202         	300         	135         	0           	open  	;
+ 180             	181             	182             	71          	300         	135         	0           	open  	;
+ 181             	182             	183             	154         	300         	135         	0           	open  	;
+ 182             	183             	184             	158         	300         	135         	0           	open  	;
+ 183             	184             	185             	181         	300         	135         	0           	open  	;
+ 184             	185             	186             	146         	300         	135         	0           	open  	;
+ 185             	186             	187             	136         	300         	135         	0           	open  	;
+ 186             	187             	188             	86          	300         	135         	0           	open  	;
+ 187             	188             	189             	46          	300         	135         	0           	open  	;
+ 188             	189             	190             	69          	300         	135         	0           	open  	;
+ 189             	190             	191             	67          	300         	135         	0           	open  	;
+ 190             	191             	192             	67          	300         	135         	0           	open  	;
+ 191             	192             	193             	848         	300         	135         	0           	open  	;
+ 192             	193             	194             	223         	300         	135         	0           	open  	;
+ 193             	187             	195             	1412        	300         	135         	0           	open  	;
+ 194             	194             	153             	80          	300         	135         	0           	open  	;
+ 195             	195             	153             	86          	300         	135         	0           	open  	;
+ 196             	145             	196             	290         	150         	135         	0           	open  	;
+ 197             	196             	197             	158         	150         	135         	0           	open  	;
+ 198             	197             	198             	309         	150         	135         	0           	open  	;
+ 199             	198             	199             	493         	150         	135         	0           	open  	;
+ 200             	199             	200             	135         	150         	135         	0           	open  	;
+ 201             	200             	201             	89          	150         	135         	0           	open  	;
+ 202             	201             	202             	61          	150         	135         	0           	open  	;
+ 203             	202             	203             	82          	150         	135         	0           	open  	;
+ 204             	203             	204             	26          	150         	135         	0           	open  	;
+ 205             	203             	205             	48          	150         	135         	0           	open  	;
+ 206             	205             	206             	794         	150         	135         	0           	open  	;
+ 207             	206             	207             	28          	150         	135         	0           	open  	;
+ 208             	207             	208             	276         	150         	135         	0           	open  	;
+ 209             	208             	153             	111         	150         	135         	0           	open  	;
+ 210             	142             	209             	280         	150         	135         	0           	open  	;
+ 211             	209             	210             	726         	150         	135         	0           	open  	;
+ 212             	210             	211             	101         	150         	135         	0           	open  	;
+ 213             	211             	212             	682         	150         	135         	0           	open  	;
+ 214             	212             	213             	38          	150         	135         	0           	open  	;
+ 215             	213             	214             	147         	150         	135         	0           	open  	;
+ 216             	214             	215             	905         	150         	135         	0           	open  	;
+ 217             	215             	216             	271         	150         	135         	0           	open  	;
+ 218             	216             	217             	581         	300         	135         	0           	open  	;
+ 219             	217             	218             	786         	300         	135         	0           	open  	;
+ 220             	218             	219             	35          	300         	135         	0           	open  	;
+ 221             	219             	220             	238         	300         	135         	0           	open  	;
+ 222             	220             	221             	237         	300         	135         	0           	open  	;
+ 223             	221             	222             	85          	300         	135         	0           	open  	;
+ 224             	222             	223             	85          	300         	135         	0           	open  	;
+ 225             	223             	224             	49          	300         	135         	0           	open  	;
+ 226             	224             	225             	312         	300         	135         	0           	open  	;
+ 227             	225             	226             	18          	300         	135         	0           	open  	;
+ 228             	226             	227             	79          	300         	135         	0           	open  	;
+ 229             	227             	180             	24          	300         	135         	0           	open  	;
+ 230             	187             	228             	46          	300         	135         	0           	open  	;
+ 231             	228             	229             	340         	300         	135         	0           	open  	;
+ 232             	229             	230             	40          	300         	135         	0           	open  	;
+ 233             	230             	231             	1303        	300         	135         	0           	open  	;
+ 234             	231             	232             	152         	300         	135         	0           	open  	;
+ 235             	232             	233             	53          	300         	135         	0           	open  	;
+ 236             	233             	234             	43          	300         	135         	0           	open  	;
+ 237             	234             	235             	82          	300         	135         	0           	open  	;
+ 238             	235             	186             	911         	300         	135         	0           	open  	;
+ 239             	231             	236             	54          	300         	135         	0           	open  	;
+ 240             	236             	237             	169         	300         	135         	0           	open  	;
+ 241             	237             	238             	47          	300         	135         	0           	open  	;
+ 242             	231             	239             	270         	300         	135         	0           	open  	;
+ 243             	239             	240             	105         	300         	135         	0           	open  	;
+ 244             	238             	241             	97          	200         	135         	0           	open  	;
+ 245             	238             	242             	145         	250         	135         	0           	open  	;
+ 246             	240             	243             	4124        	300         	135         	0           	open  	;
+ 247             	241             	244             	192         	200         	135         	0           	open  	;
+ 248             	244             	245             	88          	200         	135         	0           	open  	;
+ 249             	245             	246             	936         	200         	135         	0           	open  	;
+ 250             	246             	247             	295         	200         	135         	0           	open  	;
+ 251             	247             	248             	244         	200         	135         	0           	open  	;
+ 252             	248             	249             	259         	200         	135         	0           	open  	;
+ 253             	249             	250             	156         	200         	135         	0           	open  	;
+ 254             	250             	251             	186         	200         	135         	0           	open  	;
+ 255             	251             	252             	54          	200         	135         	0           	open  	;
+ 256             	252             	253             	488         	200         	135         	0           	open  	;
+ 257             	253             	254             	1748        	200         	135         	0           	open  	;
+ 258             	242             	255             	269         	250         	135         	0           	open  	;
+ 259             	255             	256             	57          	250         	135         	0           	open  	;
+ 260             	256             	257             	27          	250         	135         	0           	open  	;
+ 261             	257             	258             	77          	250         	135         	0           	open  	;
+ 262             	258             	259             	87          	250         	135         	0           	open  	;
+ 263             	259             	260             	86          	250         	135         	0           	open  	;
+ 264             	260             	261             	61          	250         	135         	0           	open  	;
+ 265             	261             	262             	492         	250         	135         	0           	open  	;
+ 266             	262             	263             	146         	250         	135         	0           	open  	;
+ 267             	263             	264             	209         	250         	135         	0           	open  	;
+ 268             	264             	265             	50          	250         	135         	0           	open  	;
+ 269             	265             	266             	89          	250         	135         	0           	open  	;
+ 270             	266             	267             	256         	250         	135         	0           	open  	;
+ 271             	267             	268             	39          	250         	135         	0           	open  	;
+ 272             	268             	249             	59          	250         	135         	0           	open  	;
+ 273             	249             	269             	115         	250         	135         	0           	open  	;
+ 274             	269             	270             	81          	250         	135         	0           	open  	;
+ 275             	270             	271             	45          	250         	135         	0           	open  	;
+ 276             	271             	272             	61          	250         	135         	0           	open  	;
+ 277             	272             	273             	82          	250         	135         	0           	open  	;
+ 278             	273             	274             	35          	250         	135         	0           	open  	;
+ 279             	274             	275             	56          	250         	135         	0           	open  	;
+ 280             	275             	276             	129         	250         	135         	0           	open  	;
+ 281             	276             	277             	42          	250         	135         	0           	open  	;
+ 282             	277             	278             	204         	250         	135         	0           	open  	;
+ 283             	278             	279             	97          	250         	135         	0           	open  	;
+ 284             	279             	280             	583         	250         	135         	0           	open  	;
+ 285             	280             	281             	138         	100         	130         	0           	open  	;
+ 286             	280             	282             	416         	250         	135         	0           	open  	;
+ 287             	282             	283             	123         	250         	135         	0           	open  	;
+ 288             	283             	284             	22          	250         	135         	0           	open  	;
+ 289             	284             	285             	118         	250         	135         	0           	open  	;
+ 290             	285             	243             	188         	250         	135         	0           	open  	;
+ 291             	243             	286             	23          	150         	135         	0           	open  	;
+ 292             	286             	287             	79          	150         	135         	0           	open  	;
+ 293             	287             	288             	25          	150         	135         	0           	open  	;
+ 294             	288             	289             	362         	150         	135         	0           	open  	;
+ 295             	289             	290             	12          	150         	135         	0           	open  	;
+ 296             	290             	291             	49          	150         	135         	0           	open  	;
+ 297             	291             	292             	16          	150         	135         	0           	open  	;
+ 298             	292             	293             	135         	150         	135         	0           	open  	;
+ 299             	293             	294             	281         	150         	135         	0           	open  	;
+ 300             	294             	295             	67          	150         	135         	0           	open  	;
+ 301             	295             	296             	90          	150         	135         	0           	open  	;
+ 302             	296             	297             	53          	150         	135         	0           	open  	;
+ 303             	297             	298             	176         	150         	135         	0           	open  	;
+ 304             	298             	299             	76          	150         	135         	0           	open  	;
+ 305             	299             	300             	96          	150         	135         	0           	open  	;
+ 306             	300             	301             	105         	150         	135         	0           	open  	;
+ 307             	301             	302             	212         	150         	135         	0           	open  	;
+ 308             	302             	303             	74          	150         	135         	0           	open  	;
+ 309             	303             	304             	36          	150         	135         	0           	open  	;
+ 310             	304             	305             	311         	150         	135         	0           	open  	;
+ 311             	305             	306             	98          	150         	135         	0           	open  	;
+ 312             	306             	307             	321         	150         	135         	0           	open  	;
+ 313             	308             	307             	110         	150         	135         	0           	Open  	;
+ 314             	308             	309             	716         	150         	135         	0           	open  	;
+ 315             	309             	310             	78          	150         	135         	0           	open  	;
+ 316             	310             	311             	148         	150         	135         	0           	open  	;
+ 317             	311             	312             	201         	150         	135         	0           	open  	;
+ 318             	312             	313             	174         	150         	135         	0           	open  	;
+ 319             	313             	314             	94          	150         	135         	0           	open  	;
+ 320             	314             	216             	198         	150         	135         	0           	open  	;
+ 321             	309             	315             	731         	150         	135         	0           	open  	;
+ 322             	315             	316             	318         	150         	135         	0           	open  	;
+ 323             	316             	317             	58          	150         	135         	0           	open  	;
+ 324             	317             	318             	385         	150         	135         	0           	open  	;
+ 325             	318             	319             	30          	150         	135         	0           	open  	;
+ 326             	319             	320             	95          	150         	135         	0           	open  	;
+ 327             	320             	321             	37          	150         	135         	0           	open  	;
+ 328             	321             	322             	92          	150         	135         	0           	open  	;
+ 329             	322             	323             	210         	150         	135         	0           	open  	;
+ 330             	202             	324             	61          	150         	135         	0           	open  	;
+ 331             	324             	325             	62          	150         	135         	0           	open  	;
+ 332             	325             	326             	72          	150         	135         	0           	open  	;
+ 333             	326             	327             	47          	150         	135         	0           	open  	;
+ 334             	327             	328             	9           	150         	135         	0           	open  	;
+ 335             	328             	329             	153         	150         	135         	0           	open  	;
+ 336             	329             	330             	69          	150         	135         	0           	open  	;
+ 337             	330             	331             	86          	150         	135         	0           	open  	;
+ 338             	331             	332             	80          	150         	135         	0           	open  	;
+ 339             	332             	333             	140         	150         	135         	0           	open  	;
+ 340             	333             	334             	39          	150         	135         	0           	open  	;
+ 341             	334             	335             	69          	150         	135         	0           	open  	;
+ 342             	335             	336             	361         	150         	135         	0           	open  	;
+ 343             	336             	337             	332         	150         	135         	0           	open  	;
+ 344             	337             	322             	146         	150         	135         	0           	open  	;
+ 345             	243             	338             	145         	250         	135         	0           	open  	;
+ 346             	338             	339             	68          	250         	135         	0           	open  	;
+ 347             	339             	340             	45          	250         	135         	0           	open  	;
+ 348             	340             	341             	63          	250         	135         	0           	open  	;
+ 349             	341             	342             	115         	250         	135         	0           	open  	;
+ 350             	342             	343             	11          	250         	135         	0           	open  	;
+ 351             	343             	344             	355         	250         	135         	0           	open  	;
+ 352             	344             	345             	649         	250         	135         	0           	open  	;
+ 353             	345             	346             	48          	250         	135         	0           	open  	;
+ 354             	346             	347             	45          	250         	135         	0           	open  	;
+ 355             	347             	348             	124         	250         	135         	0           	open  	;
+ 356             	348             	349             	150         	250         	135         	0           	open  	;
+ 357             	681             	350             	368         	250         	135         	0           	open  	;
+ 358             	350             	351             	34          	250         	135         	0           	open  	;
+ 359             	351             	352             	42          	250         	135         	0           	open  	;
+ 360             	352             	353             	268         	250         	135         	0           	open  	;
+ 361             	254             	349             	1797        	200         	135         	0           	open  	;
+ 362             	681             	353             	712         	200         	135         	0           	open  	;
+ 363             	353             	369             	81          	200         	135         	0           	open  	;
+ 364             	369             	354             	52          	200         	135         	0           	open  	;
+ 365             	354             	355             	247         	200         	135         	0           	open  	;
+ 366             	354             	356             	190         	200         	135         	0           	open  	;
+ 367             	356             	357             	30          	200         	135         	0           	open  	;
+ 368             	357             	358             	208         	200         	135         	0           	open  	;
+ 369             	358             	359             	451         	200         	135         	0           	open  	;
+ 370             	359             	360             	787         	200         	135         	0           	open  	;
+ 371             	360             	361             	550         	200         	135         	0           	open  	;
+ 372             	361             	362             	353         	200         	135         	0           	open  	;
+ 373             	362             	363             	944         	200         	135         	0           	open  	;
+ 374             	363             	364             	826         	200         	135         	0           	open  	;
+ 375             	364             	365             	37          	200         	135         	0           	open  	;
+ 376             	365             	366             	128         	200         	135         	0           	open  	;
+ 377             	366             	367             	223         	200         	135         	0           	open  	;
+ 378             	367             	368             	82          	150         	135         	0           	open  	;
+ 379             	368             	370             	59          	150         	135         	0           	open  	;
+ 380             	370             	371             	29          	150         	135         	0           	open  	;
+ 381             	371             	372             	81          	150         	135         	0           	open  	;
+ 382             	372             	373             	155         	150         	135         	0           	open  	;
+ 383             	373             	374             	42          	150         	135         	0           	open  	;
+ 384             	374             	375             	66          	150         	135         	0           	open  	;
+ 385             	375             	376             	29          	150         	135         	0           	open  	;
+ 386             	376             	377             	42          	150         	135         	0           	open  	;
+ 387             	377             	378             	97          	150         	135         	0           	open  	;
+ 388             	378             	379             	59          	150         	135         	0           	open  	;
+ 389             	379             	380             	34          	150         	135         	0           	open  	;
+ 390             	380             	381             	48          	150         	135         	0           	open  	;
+ 391             	381             	382             	48          	150         	135         	0           	open  	;
+ 392             	382             	383             	20          	150         	135         	0           	open  	;
+ 393             	383             	384             	66          	150         	135         	0           	open  	;
+ 394             	384             	385             	31          	150         	135         	0           	open  	;
+ 395             	385             	386             	80          	150         	135         	0           	open  	;
+ 396             	386             	387             	19          	150         	135         	0           	open  	;
+ 397             	387             	388             	145         	150         	135         	0           	open  	;
+ 398             	388             	389             	64          	150         	135         	0           	open  	;
+ 399             	389             	390             	16          	150         	135         	0           	open  	;
+ 400             	390             	391             	86          	150         	135         	0           	open  	;
+ 401             	391             	392             	90          	150         	135         	0           	open  	;
+ 402             	392             	393             	39          	150         	135         	0           	open  	;
+ 403             	393             	394             	107         	150         	135         	0           	open  	;
+ 404             	394             	412             	380         	150         	135         	0           	open  	;
+ 405             	412             	413             	60          	150         	135         	0           	open  	;
+ 406             	413             	414             	90          	150         	135         	0           	open  	;
+ 407             	388             	395             	68          	150         	135         	0           	open  	;
+ 408             	395             	396             	427         	150         	135         	0           	open  	;
+ 409             	383             	397             	525         	100         	130         	0           	open  	;
+ 410             	397             	398             	169         	100         	130         	0           	open  	;
+ 411             	398             	399             	33          	100         	130         	0           	open  	;
+ 412             	399             	400             	47          	100         	130         	0           	open  	;
+ 413             	400             	401             	61          	150         	135         	0           	open  	;
+ 414             	401             	402             	25          	150         	135         	0           	open  	;
+ 415             	402             	403             	36          	150         	135         	0           	open  	;
+ 416             	403             	404             	46          	150         	135         	0           	open  	;
+ 417             	404             	405             	45          	150         	135         	0           	open  	;
+ 418             	405             	406             	409         	150         	135         	0           	open  	;
+ 419             	406             	407             	60          	150         	135         	0           	open  	;
+ 420             	404             	408             	351         	150         	135         	0           	open  	;
+ 422             	409             	410             	99          	200         	135         	0           	open  	;
+ 423             	410             	411             	576         	200         	135         	0           	open  	;
+ 424             	411             	353             	559         	200         	135         	0           	open  	;
+ 425             	408             	426             	2004        	200         	135         	0           	open  	;
+ 426             	408             	415             	942         	150         	135         	0           	open  	;
+ 427             	415             	416             	52          	150         	135         	0           	open  	;
+ 428             	416             	417             	287         	150         	135         	0           	open  	;
+ 429             	417             	418             	47          	150         	135         	0           	open  	;
+ 430             	418             	419             	35          	150         	135         	0           	open  	;
+ 431             	419             	420             	89          	150         	135         	0           	open  	;
+ 432             	420             	421             	183         	150         	135         	0           	open  	;
+ 433             	421             	422             	131         	150         	135         	0           	open  	;
+ 434             	422             	423             	105         	150         	135         	0           	open  	;
+ 435             	423             	424             	71          	150         	135         	0           	open  	;
+ 436             	424             	425             	25          	150         	135         	0           	open  	;
+ 437             	426             	427             	145         	200         	135         	0           	open  	;
+ 438             	427             	684             	83          	200         	135         	0           	open  	;
+ 439             	428             	429             	68          	200         	135         	0           	open  	;
+ 440             	429             	430             	505         	200         	135         	0           	open  	;
+ 441             	430             	431             	1333        	200         	135         	0           	open  	;
+ 442             	431             	432             	407         	200         	135         	0           	open  	;
+ 443             	432             	433             	673         	200         	135         	0           	open  	;
+ 444             	433             	434             	261         	200         	135         	0           	open  	;
+ 445             	434             	435             	107         	200         	135         	0           	open  	;
+ 446             	435             	436             	205         	200         	135         	0           	open  	;
+ 447             	436             	437             	47          	200         	135         	0           	open  	;
+ 448             	437             	438             	67          	200         	135         	0           	open  	;
+ 449             	438             	439             	57          	200         	135         	0           	open  	;
+ 450             	439             	440             	76          	200         	135         	0           	open  	;
+ 451             	440             	441             	22          	50          	130         	0           	open  	;
+ 452             	441             	442             	47          	200         	135         	0           	open  	;
+ 453             	442             	443             	194         	200         	135         	0           	open  	;
+ 454             	443             	444             	74          	200         	135         	0           	open  	;
+ 455             	444             	445             	25          	200         	135         	0           	open  	;
+ 456             	445             	446             	55          	200         	135         	0           	open  	;
+ 457             	446             	447             	81          	200         	135         	0           	open  	;
+ 458             	447             	448             	103         	200         	135         	0           	open  	;
+ 459             	448             	449             	52          	200         	135         	0           	open  	;
+ 460             	372             	450             	315         	150         	135         	0           	open  	;
+ 461             	450             	451             	66          	150         	135         	0           	open  	;
+ 462             	451             	452             	310         	150         	135         	0           	open  	;
+ 463             	62              	453             	215         	200         	135         	0           	open  	;
+ 464             	453             	454             	854         	200         	135         	0           	open  	;
+ 465             	455             	456             	1027        	200         	135         	0           	open  	;
+ 466             	456             	457             	58          	200         	135         	0           	open  	;
+ 467             	457             	458             	13          	150         	135         	0           	open  	;
+ 468             	458             	459             	28          	150         	135         	0           	open  	;
+ 469             	459             	460             	25          	150         	135         	0           	open  	;
+ 470             	460             	461             	21          	150         	135         	0           	open  	;
+ 471             	461             	462             	64          	150         	135         	0           	open  	;
+ 472             	462             	463             	50          	150         	135         	0           	open  	;
+ 473             	463             	464             	34          	150         	135         	0           	open  	;
+ 474             	457             	465             	17          	150         	135         	0           	open  	;
+ 475             	465             	466             	29          	150         	135         	0           	open  	;
+ 476             	466             	467             	125         	150         	135         	0           	open  	;
+ 477             	466             	468             	339         	150         	135         	0           	open  	;
+ 478             	468             	469             	340         	150         	135         	0           	open  	;
+ 479             	455             	470             	107         	150         	135         	0           	open  	;
+ 480             	470             	471             	21          	150         	135         	0           	open  	;
+ 481             	471             	472             	52          	150         	135         	0           	open  	;
+ 482             	305             	473             	127         	150         	135         	0           	open  	;
+ 483             	473             	474             	361         	150         	135         	0           	open  	;
+ 484             	474             	475             	518         	150         	135         	0           	open  	;
+ 506             	35              	497             	294         	100         	130         	0           	open  	;
+ 507             	497             	498             	204         	100         	130         	0           	open  	;
+ 508             	498             	499             	34          	100         	130         	0           	open  	;
+ 509             	499             	500             	97          	100         	130         	0           	open  	;
+ 510             	500             	501             	34          	100         	130         	0           	open  	;
+ 511             	501             	502             	35          	100         	130         	0           	open  	;
+ 512             	502             	503             	50          	100         	130         	0           	open  	;
+ 513             	503             	504             	32          	100         	130         	0           	open  	;
+ 514             	504             	505             	42          	100         	130         	0           	open  	;
+ 515             	505             	506             	46          	150         	135         	0           	open  	;
+ 516             	506             	507             	45          	150         	135         	0           	open  	;
+ 517             	507             	508             	20          	150         	135         	0           	open  	;
+ 518             	508             	509             	47          	150         	135         	0           	open  	;
+ 519             	509             	510             	57          	150         	135         	0           	open  	;
+ 520             	510             	511             	52          	150         	135         	0           	open  	;
+ 521             	511             	512             	71          	150         	135         	0           	open  	;
+ 522             	512             	513             	72          	150         	135         	0           	open  	;
+ 523             	513             	514             	136         	150         	135         	0           	open  	;
+ 524             	514             	515             	22          	150         	135         	0           	open  	;
+ 525             	515             	516             	122         	100         	130         	0           	open  	;
+ 526             	516             	517             	19          	100         	130         	0           	open  	;
+ 527             	517             	518             	94          	100         	130         	0           	open  	;
+ 528             	510             	519             	45          	200         	135         	0           	open  	;
+ 529             	519             	520             	132         	200         	135         	0           	open  	;
+ 530             	520             	521             	66          	200         	135         	0           	open  	;
+ 531             	521             	522             	25          	200         	135         	0           	open  	;
+ 532             	522             	30              	83          	200         	135         	0           	open  	;
+ 533             	523             	73              	912         	200         	135         	0           	open  	;
+ 534             	1               	524             	318         	100         	130         	0           	open  	;
+ 535             	1               	525             	138         	100         	130         	0           	open  	;
+ 536             	525             	526             	44          	100         	130         	0           	open  	;
+ 537             	526             	527             	580         	100         	130         	0           	open  	;
+ 538             	9               	528             	48          	100         	130         	0           	open  	;
+ 539             	528             	529             	73          	100         	130         	0           	open  	;
+ 540             	529             	530             	88          	100         	130         	0           	open  	;
+ 541             	530             	531             	51          	75          	130         	0           	open  	;
+ 542             	531             	532             	87          	75          	130         	0           	open  	;
+ 543             	17              	533             	77          	75          	130         	0           	open  	;
+ 544             	533             	534             	655         	75          	130         	0           	open  	;
+ 545             	534             	535             	95          	75          	130         	0           	open  	;
+ 546             	17              	536             	206         	75          	130         	0           	open  	;
+ 547             	536             	537             	135         	75          	130         	0           	open  	;
+ 548             	537             	538             	43          	75          	130         	0           	open  	;
+ 549             	538             	539             	69          	75          	130         	0           	open  	;
+ 550             	539             	540             	257         	75          	130         	0           	open  	;
+ 551             	540             	541             	50          	75          	130         	0           	open  	;
+ 552             	541             	542             	198         	75          	130         	0           	open  	;
+ 553             	542             	543             	218         	75          	130         	0           	open  	;
+ 554             	543             	544             	19          	75          	130         	0           	open  	;
+ 555             	544             	545             	57          	75          	130         	0           	open  	;
+ 556             	545             	29              	22          	75          	130         	0           	open  	;
+ 557             	29              	546             	14          	75          	130         	0           	open  	;
+ 558             	546             	547             	37          	75          	130         	0           	open  	;
+ 559             	547             	548             	101         	75          	130         	0           	open  	;
+ 560             	548             	549             	47          	75          	130         	0           	open  	;
+ 561             	549             	550             	54          	75          	130         	0           	open  	;
+ 562             	550             	551             	48          	75          	130         	0           	open  	;
+ 563             	551             	552             	27          	75          	130         	0           	open  	;
+ 564             	552             	553             	764         	75          	130         	0           	open  	;
+ 565             	553             	554             	52          	75          	130         	0           	open  	;
+ 566             	554             	555             	333         	75          	130         	0           	open  	;
+ 567             	555             	556             	148         	75          	130         	0           	open  	;
+ 568             	556             	557             	33          	75          	130         	0           	open  	;
+ 569             	557             	558             	136         	75          	130         	0           	open  	;
+ 570             	558             	559             	360         	75          	130         	0           	open  	;
+ 571             	143             	560             	98          	75          	130         	0           	open  	;
+ 572             	560             	561             	668         	75          	130         	0           	open  	;
+ 573             	561             	562             	150         	75          	130         	0           	open  	;
+ 574             	562             	563             	302         	75          	130         	0           	open  	;
+ 575             	144             	564             	1167        	75          	130         	0           	open  	;
+ 576             	152             	565             	1264        	75          	130         	0           	open  	;
+ 577             	323             	566             	58          	100         	130         	0           	open  	;
+ 578             	566             	567             	43          	100         	130         	0           	open  	;
+ 579             	567             	568             	21          	100         	130         	0           	open  	;
+ 580             	568             	569             	46          	100         	130         	0           	open  	;
+ 581             	569             	570             	54          	100         	130         	0           	open  	;
+ 582             	570             	571             	476         	100         	130         	0           	open  	;
+ 583             	571             	572             	88          	75          	130         	0           	open  	;
+ 584             	571             	573             	355         	100         	130         	0           	open  	;
+ 585             	573             	574             	176         	75          	130         	0           	open  	;
+ 586             	570             	575             	1158        	100         	130         	0           	open  	;
+ 587             	323             	576             	407         	100         	130         	0           	open  	;
+ 588             	110             	453             	261         	75          	130         	0           	open  	;
+ 589             	453             	577             	169         	75          	130         	0           	open  	;
+ 590             	577             	578             	11          	75          	130         	0           	open  	;
+ 591             	578             	579             	74          	75          	130         	0           	open  	;
+ 592             	579             	580             	101         	75          	130         	0           	open  	;
+ 593             	580             	581             	50          	75          	130         	0           	open  	;
+ 594             	581             	582             	93          	75          	130         	0           	open  	;
+ 595             	582             	583             	36          	75          	130         	0           	open  	;
+ 596             	583             	584             	50          	75          	130         	0           	open  	;
+ 597             	465             	585             	15          	100         	130         	0           	open  	;
+ 598             	585             	586             	23          	100         	130         	0           	open  	;
+ 599             	586             	587             	27          	100         	130         	0           	open  	;
+ 600             	587             	588             	373         	100         	130         	0           	open  	;
+ 601             	467             	589             	32          	100         	130         	0           	open  	;
+ 602             	589             	590             	26          	100         	130         	0           	open  	;
+ 603             	590             	591             	61          	100         	130         	0           	open  	;
+ 604             	591             	592             	82          	100         	130         	0           	open  	;
+ 605             	592             	593             	24          	75          	130         	0           	open  	;
+ 606             	593             	594             	23          	75          	130         	0           	open  	;
+ 607             	594             	595             	34          	75          	130         	0           	open  	;
+ 608             	595             	596             	151         	75          	130         	0           	open  	;
+ 609             	469             	597             	108         	100         	130         	0           	open  	;
+ 648             	433             	634             	138         	75          	130         	0           	open  	;
+ 649             	634             	635             	122         	75          	130         	0           	open  	;
+ 650             	635             	636             	173         	75          	130         	0           	open  	;
+ 651             	637             	638             	1254        	75          	130         	0           	open  	;
+ 652             	638             	639             	77          	100         	130         	0           	open  	;
+ 653             	639             	449             	171         	140         	135         	0           	open  	;
+ 654             	449             	640             	122         	140         	135         	0           	open  	;
+ 655             	640             	641             	211         	140         	135         	0           	open  	;
+ 656             	449             	642             	20          	75          	130         	0           	open  	;
+ 657             	642             	643             	60          	75          	130         	0           	open  	;
+ 658             	643             	644             	38          	75          	130         	0           	open  	;
+ 659             	644             	645             	85          	75          	130         	0           	open  	;
+ 660             	645             	646             	30          	75          	130         	0           	open  	;
+ 661             	646             	647             	94          	75          	130         	0           	open  	;
+ 662             	647             	648             	112         	75          	130         	0           	open  	;
+ 663             	648             	649             	22          	75          	130         	0           	open  	;
+ 665             	75              	651             	175         	75          	130         	0           	open  	;
+ 666             	652             	653             	377         	125         	135         	0           	open  	;
+ 667             	653             	654             	216         	140         	135         	0           	open  	;
+ 668             	654             	655             	406         	125         	135         	0           	open  	;
+ 669             	655             	72              	27          	125         	135         	0           	open  	;
+ 670             	554             	34              	15          	75          	130         	0           	open  	;
+ 671             	35              	656             	466         	100         	130         	0           	open  	;
+ 672             	656             	657             	50          	100         	130         	0           	open  	;
+ 673             	657             	658             	34          	100         	130         	0           	open  	;
+ 674             	658             	659             	33          	100         	130         	0           	open  	;
+ 675             	659             	660             	62          	100         	130         	0           	open  	;
+ 676             	660             	661             	35          	100         	130         	0           	open  	;
+ 677             	661             	662             	36          	100         	130         	0           	open  	;
+ 678             	662             	663             	59          	100         	130         	0           	open  	;
+ 679             	663             	664             	31          	150         	135         	0           	open  	;
+ 680             	664             	505             	28          	150         	135         	0           	open  	;
+ 681             	281             	665             	95          	100         	130         	0           	open  	;
+ 682             	665             	666             	63          	100         	130         	0           	open  	;
+ 683             	666             	290             	436         	100         	130         	0           	open  	;
+ 685             	667             	668             	284         	150         	135         	0           	open  	;
+ 687             	425             	670             	163         	100         	130         	0           	open  	;
+ 688             	472             	671             	109         	100         	130         	0           	open  	;
+ 689             	671             	672             	108         	100         	130         	0           	open  	;
+ 690             	464             	673             	40          	75          	130         	0           	open  	;
+ 691             	673             	674             	40          	75          	130         	0           	open  	;
+ 692             	674             	675             	28          	75          	130         	0           	open  	;
+ 693             	187             	676             	42          	100         	130         	0           	open  	;
+ 694             	676             	677             	158         	100         	130         	0           	open  	;
+ 695             	677             	678             	225         	100         	130         	0           	open  	;
+ 696             	678             	679             	124         	100         	130         	0           	open  	;
+ 697             	349             	682             	1           	200         	135         	0           	open  	;
+ 698             	683             	681             	1           	200         	135         	0           	open  	;
+ 699             	684             	685             	1           	200         	135         	0           	open  	;
+ 700             	686             	428             	1           	200         	135         	0           	open  	;
+ 701             	349             	681             	1           	200         	135         	0           	CV    	;
+ 702             	684             	428             	1           	200         	135         	0           	CV    	;
+ 684             	408             	667             	3101        	150         	135         	0           	Open  	;
+ 421             	408             	409             	2164        	200         	135         	0           	Open  	;
+ 710             	81              	44              	1           	1000        	130         	0           	Open  	;
+ 711             	43              	82              	1           	1000        	130         	0           	Open  	;
+ 485             	454             	477             	1           	200         	135         	0           	Open  	;
+ 487             	476             	455             	1           	200         	135         	0           	Open  	;
+ 488             	477             	476             	1           	200         	135         	0           	CV    	;
+ 489             	479             	478             	1           	300         	135         	0           	Open  	;
+ 490             	479             	177             	1           	300         	135         	0           	Open  	;
+
+[PUMPS]
+;ID              	Node1           	Node2           	Parameters
+ B1              	42              	41              	HEAD 1	 	;
+ B2              	177             	180             	HEAD 2	 	;
+ B3              	682             	683             	HEAD 3	 	;
+ B4              	685             	686             	HEAD 4	 	;
+ B5              	454             	455             	HEAD 5	 	;
+ B6              	44              	43              	HEAD 6	 	;
+ B2b             	478             	180             	HEAD 2		;
+
+[VALVES]
+;ID              	Node1           	Node2           	Diameter    	Type	Setting     	MinorLoss   
+
+[TAGS]
+
+[DEMANDS]
+;Junction        	Demand      	Pattern         	Category
+
+[STATUS]
+;ID              	Status/Setting
+
+[PATTERNS]
+;ID              	Multipliers
+;
+ consumo         	0.65        	0.52        	0.52        	0.52        	0.61        	0.72        0.73        	0.8         	0.94        	1.08        	1.15        	1.18        1.08        	0.73        	0.83        	0.8         	1.34        	1.4         1.51        	1.64        	1.64        	1.58        	1.3         	0.73        
+;
+
+;
+
+;
+ Azul            	0.226484133794058	0.226484133794058	0.226484133794058	0.226484133794058	0.226484133794058	0.226484133794058       0.226484133794058	0.226484133794058	0.226484133794058	0.226484133794058	0.226484133794058	0.226484133794058        0.226484133794058	0.226484133794058	0.226484133794058	0.226484133794058	0.226484133794058	0.33767472525097        0.33767472525097	0.33767472525097	0.226484133794058	0.226484133794058	0.226484133794058	0.226484133794058
+;
+ Verde           	0.285692579303081	0.285692579303081	0.285692579303081	0.285692579303081	0.285692579303081	0.285692579303081       0.285692579303081	0.285692579303081	0.285692579303081	0.285692579303081	0.285692579303081	0.285692579303081        0.285692579303081	0.285692579303081	0.285692579303081	0.285692579303081	0.285692579303081	0.979469170843766        0.979469170843766	0.979469170843766	0.285692579303081	0.285692579303081	0.285692579303081	0.285692579303081
+;
+ Convencional    	0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736        0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736        0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736      0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736	0.239259853042736
+;
+ Monômio         	0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877       0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877         0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877       0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877	0.351599729241877
+;
+
+;
+
+;
+
+
+[CURVES]
+;ID              	X-Value     	Y-Value
+;BOMBA: PUMP: BOMBA: 
+ 1               	0           	92.31       
+ 1               	600         	88.54       
+ 1               	900         	77.86       
+;BOMBA: PUMP: BOMBA: 
+ 2               	162         	110         
+;PUMP: PUMP: BOMBA: 
+ 3               	252         	40          
+;BOMBA: PUMP: BOMBA: 
+ 4               	120         	60          
+;BOMBA: PUMP: BOMBA: 
+ 5               	90          	42          
+;BOMBA: 
+ 6               	50          	50          
+;RENDIMENTO: 
+ RB1             	100         	10          
+ RB1             	200         	29          
+ RB1             	300         	42          
+ RB1             	400         	52          
+ RB1             	500         	57          
+ RB1             	600         	62          
+ RB1             	700         	67          
+ RB1             	800         	69          
+ RB1             	900         	71          
+ RB1             	1000        	71          
+ RB1             	1100        	70          
+ RB1             	1200        	65          
+;RENDIMENTO: 
+ RB4             	0           	70          
+ RB4             	300         	50          
+
+[CONTROLS]
+
+
+
+
+
+[RULES]
+
+[ENERGY]
+ Global Efficiency  	80
+ Global Price       	0
+ Demand Charge      	0
+ Pump 	B1              	Efficiency	RB1
+ Pump 	B1              	Price     	1
+ Pump 	B1              	Pattern   	Azul
+ Pump 	B2              	Price     	1
+ Pump 	B2              	Pattern   	Verde
+ Pump 	B3              	Price     	1
+ Pump 	B3              	Pattern   	Convencional
+ Pump 	B4              	Efficiency	RB4
+ Pump 	B4              	Price     	1
+ Pump 	B4              	Pattern   	Monômio
+ Pump 	B5              	Price     	1
+ Pump 	B5              	Pattern   	Monômio
+ Pump 	B6              	Price     	1
+ Pump 	B6              	Pattern   	Convencional
+ Pump 	B2b             	Price     	1
+ Pump 	B2b             	Pattern   	Verde
+
+[EMITTERS]
+;Junction        	Coefficient
+
+[QUALITY]
+;Node            	InitQual
+
+[SOURCES]
+;Node            	Type        	Quality     	Pattern
+
+[REACTIONS]
+;Type     	Pipe/Tank       	Coefficient
+
+
+[REACTIONS]
+ Order Bulk            	1
+ Order Tank            	1
+ Order Wall            	1
+ Global Bulk           	0
+ Global Wall           	0
+ Limiting Potential    	0
+ Roughness Correlation 	0
+
+[MIXING]
+;Tank            	Model
+
+[TIMES]
+ Duration           	24:00
+ Hydraulic Timestep 	0:10
+ Quality Timestep   	0:05 
+ Pattern Timestep   	1:00 
+ Pattern Start      	0:00 
+ Report Timestep    	1:00
+ Report Start       	0:00 
+ Start ClockTime    	0:00
+ Statistic          	NONE
+
+[REPORT]
+ Status             	No
+ Summary            	No
+ Page               	0
+
+[OPTIONS]
+ Units              	CMH
+ Headloss           	H-W
+ Specific Gravity   	1
+ Viscosity          	1
+ Trials             	100
+ Accuracy           	0.001
+ CHECKFREQ          	10
+ MAXCHECK           	10
+ DAMPLIMIT          	0
+ Unbalanced         	Continue 10
+ Pattern            	consumo
+ Demand Multiplier  	1.0
+ Emitter Exponent   	0.5
+ Quality            	None mg/L
+ Diffusivity        	1
+ Tolerance          	0.01
+
+[COORDINATES]
+;Node            	X-Coord         	Y-Coord
+ 1               	-714.01         	-1694.21        
+ 2               	-633.94         	-1646.84        
+ 3               	-614.37         	-1631.76        
+ 4               	-569.48         	-1606.02        
+ 5               	-558.87         	-1602.17        
+ 6               	-454.53         	-1588.40        
+ 7               	-373.10         	-1583.98        
+ 8               	-355.40         	-1589.29        
+ 9               	-332.39         	-1595.48        
+ 10              	-325.31         	-1582.21        
+ 11              	-320.00         	-1571.59        
+ 12              	-274.88         	-1475.98        
+ 13              	-269.25         	-1463.09        
+ 14              	-286.25         	-1431.66        
+ 15              	-312.82         	-1384.79        
+ 16              	-327.11         	-1353.14        
+ 17              	-355.19         	-1297.94        
+ 18              	-354.86         	-1291.25        
+ 19              	-355.52         	-1283.95        
+ 20              	-356.96         	-1264.92        
+ 21              	-354.92         	-1257.84        
+ 22              	-351.81         	-1247.15        
+ 23              	-344.46         	-1198.87        
+ 24              	-341.41         	-1179.80        
+ 25              	-341.47         	-1163.37        
+ 26              	-341.52         	-1156.33        
+ 27              	-341.30         	-1143.88        
+ 28              	-339.05         	-1102.83        
+ 29              	-339.58         	-1087.35        
+ 30              	-345.97         	-1057.97        
+ 31              	-350.42         	-1039.01        
+ 32              	-350.31         	-1028.60        
+ 33              	-337.86         	-908.00         
+ 34              	-336.37         	-903.03         
+ 35              	-335.21         	-896.67         
+ 36              	-333.40         	-859.98         
+ 37              	-333.20         	-838.62         
+ 38              	-332.49         	-832.54         
+ 39              	-329.96         	-819.41         
+ 40              	-299.95         	-671.31         
+ 41              	-311.74         	-670.44         
+ 45              	-238.05         	-447.66         
+ 46              	-325.36         	-438.29         
+ 47              	-335.68         	-348.52         
+ 49              	-281.37         	-233.18         
+ 50              	-302.83         	-240.73         
+ 51              	-424.98         	-274.84         
+ 52              	-595.58         	-215.07         
+ 53              	-610.59         	-201.61         
+ 54              	-613.86         	-196.88         
+ 55              	-619.95         	-186.57         
+ 56              	-627.92         	-180.38         
+ 57              	-646.72         	-178.83         
+ 58              	-879.68         	-119.03         
+ 59              	-883.00         	-119.65         
+ 60              	-932.38         	-103.60         
+ 62              	-985.79         	-80.20          
+ 63              	-997.17         	-111.77         
+ 64              	-1095.41        	-214.66         
+ 65              	-1099.39        	-220.63         
+ 66              	-1145.20        	-290.77         
+ 67              	-1179.27        	-365.56         
+ 68              	-1205.40        	-415.64         
+ 69              	-1199.46        	-419.94         
+ 70              	-1205.18        	-440.09         
+ 71              	-1209.89        	-454.96         
+ 72              	-1219.34        	-477.71         
+ 73              	-1198.93        	-636.79         
+ 75              	-1198.38        	-641.18         
+ 76              	-1168.75        	-807.19         
+ 77              	-1134.35        	-901.32         
+ 78              	-1151.44        	-966.25         
+ 79              	-1159.59        	-985.55         
+ 80              	-1182.25        	-1069.18        
+ 81              	-1267.30        	-1132.06        
+ 82              	-1324.11        	-1199.54        
+ 83              	-1361.72        	-1222.21        
+ 84              	-1367.72        	-1228.27        
+ 85              	-1372.95        	-1230.37        
+ 86              	-1375.64        	-1231.13        
+ 87              	-1383.66        	-1235.83        
+ 88              	-1386.60        	-1239.10        
+ 89              	-1389.49        	-1242.79        
+ 90              	-1395.87        	-1250.03        
+ 91              	-1400.02        	-1255.67        
+ 92              	-1403.72        	-1262.21        
+ 93              	-1406.64        	-1271.20        
+ 94              	-1408.02        	-1275.95        
+ 95              	-1406.06        	-1302.08        
+ 96              	-1408.58        	-1446.54        
+ 97              	-1261.55        	-1707.38        
+ 98              	-1217.35        	-1732.15        
+ 99              	-1166.94        	-1785.37        
+ 100             	-1209.77        	-1861.92        
+ 101             	-1257.92        	-1910.09        
+ 102             	-1228.03        	-2046.19        
+ 103             	-1168.33        	-2184.26        
+ 104             	-1260.32        	-2273.59        
+ 105             	-1148.52        	-291.44         
+ 106             	-1098.07        	-212.89         
+ 107             	-1029.25        	-142.53         
+ 108             	-1004.69        	-116.64         
+ 109             	-995.84         	-103.14         
+ 110             	-987.11         	-75.91          
+ 111             	-975.24         	-73.98          
+ 112             	-921.76         	-97.73          
+ 113             	-840.35         	-118.69         
+ 114             	-804.92         	-128.60         
+ 115             	-782.36         	-135.68         
+ 116             	-710.89         	-154.93         
+ 117             	-684.34         	-164.45         
+ 118             	-675.71         	-166.22         
+ 119             	-666.42         	-169.09         
+ 120             	-657.57         	-171.08         
+ 121             	-627.92         	-171.31         
+ 122             	-619.95         	-180.60         
+ 123             	-608.47         	-200.73         
+ 124             	-600.02         	-208.55         
+ 125             	-586.04         	-222.90         
+ 126             	-577.16         	-229.17         
+ 127             	-572.15         	-229.94         
+ 128             	-555.31         	-230.34         
+ 129             	-547.22         	-226.79         
+ 130             	-541.44         	-224.60         
+ 131             	-499.63         	-237.55         
+ 132             	-483.36         	-244.64         
+ 133             	-479.26         	-246.61         
+ 134             	-457.75         	-254.96         
+ 135             	-447.40         	-258.82         
+ 136             	-439.64         	-264.65         
+ 137             	-434.33         	-268.10         
+ 138             	-422.45         	-273.65         
+ 139             	-392.54         	-267.04         
+ 140             	-370.00         	-265.40         
+ 141             	-347.55         	-260.05         
+ 142             	-304.52         	-238.03         
+ 143             	-262.68         	-233.98         
+ 144             	-254.67         	-234.98         
+ 145             	-242.28         	-237.03         
+ 146             	-230.16         	-238.48         
+ 147             	-225.63         	-238.99         
+ 148             	-220.02         	-238.31         
+ 149             	-216.39         	-238.91         
+ 150             	-212.64         	-238.97         
+ 151             	-209.76         	-238.78         
+ 152             	-203.55         	-238.90         
+ 153             	-193.67         	-238.06         
+ 154             	-196.48         	-245.99         
+ 155             	-202.52         	-275.81         
+ 156             	-210.02         	-316.10         
+ 157             	-248.39         	-441.73         
+ 158             	-266.16         	-431.29         
+ 159             	-276.48         	-428.54         
+ 160             	-312.57         	-437.88         
+ 162             	-230.19         	-190.32         
+ 164             	-225.32         	-164.87         
+ 166             	-214.87         	-114.12         
+ 167             	-197.35         	-33.91          
+ 168             	-186.63         	-34.99          
+ 169             	-189.03         	-48.62          
+ 171             	-177.44         	-36.26          
+ 172             	-174.31         	-24.98          
+ 173             	-163.72         	-28.31          
+ 174             	-158.55         	-30.23          
+ 175             	-146.78         	-34.47          
+ 176             	-145.01         	-25.41          
+ 177             	-144.42         	-26.76          
+ 178             	-152.66         	-9.89           
+ 180             	-144.11         	-28.98          
+ 181             	-111.47         	-34.21          
+ 182             	-112.95         	-45.84          
+ 183             	-87.71          	-50.01          
+ 184             	-62.89          	-55.42          
+ 185             	-49.25          	-29.34          
+ 186             	-27.35          	-40.64          
+ 187             	-36.53          	-62.85          
+ 188             	-40.65          	-76.41          
+ 189             	-45.64          	-81.85          
+ 190             	-52.72          	-89.81          
+ 191             	-59.80          	-98.66          
+ 192             	-67.32          	-109.73         
+ 193             	-152.14         	-211.49         
+ 194             	-177.96         	-237.62         
+ 195             	-179.06         	-235.41         
+ 196             	-232.14         	-188.90         
+ 197             	-226.19         	-163.46         
+ 198             	-215.05         	-111.70         
+ 199             	-198.79         	-32.45          
+ 200             	-175.67         	-35.33          
+ 201             	-168.64         	-24.08          
+ 202             	-160.23         	-27.76          
+ 203             	-147.81         	-32.90          
+ 204             	-147.18         	-27.59          
+ 205             	-148.62         	-40.62          
+ 206             	-177.30         	-169.56         
+ 207             	-178.19         	-174.48         
+ 208             	-188.33         	-218.89         
+ 209             	-308.61         	-192.07         
+ 210             	-341.87         	-80.19          
+ 211             	-338.65         	-63.69          
+ 212             	-325.27         	48.86           
+ 213             	-325.27         	54.87           
+ 214             	-324.19         	90.19           
+ 215             	-310.96         	239.28          
+ 216             	-297.51         	283.32          
+ 217             	-238.04         	204.33          
+ 218             	-158.65         	99.56           
+ 219             	-154.39         	103.14          
+ 220             	-124.61         	80.67           
+ 221             	-143.97         	48.91           
+ 222             	-132.34         	38.98           
+ 223             	-138.12         	25.71           
+ 224             	-133.85         	19.91           
+ 225             	-160.31         	-25.16          
+ 226             	-157.69         	-26.49          
+ 227             	-144.70         	-31.52          
+ 228             	-28.79          	-65.61          
+ 229             	0.33            	-19.70          
+ 230             	6.13            	-21.50          
+ 231             	79.68           	56.33           
+ 232             	61.44           	74.80           
+ 233             	54.89           	80.90           
+ 234             	49.75           	85.86           
+ 235             	40.30           	95.44           
+ 236             	85.00           	64.19           
+ 237             	103.84          	84.65           
+ 238             	106.82          	88.40           
+ 239             	109.73          	89.83           
+ 240             	95.78           	102.19          
+ 241             	97.45           	98.63           
+ 242             	95.79           	98.96           
+ 243             	189.04          	733.13          
+ 244             	124.68          	114.27          
+ 245             	134.93          	123.87          
+ 246             	117.45          	275.66          
+ 247             	104.39          	322.03          
+ 248             	117.89          	360.19          
+ 249             	132.05          	403.11          
+ 250             	143.09          	423.74          
+ 251             	156.86          	451.02          
+ 252             	159.33          	460.14          
+ 253             	175.60          	529.73          
+ 254             	199.95          	732.67          
+ 255             	131.47          	126.68          
+ 256             	136.50          	135.09          
+ 257             	137.43          	139.55          
+ 258             	137.47          	152.55          
+ 259             	138.36          	166.80          
+ 260             	139.32          	181.11          
+ 261             	140.43          	191.11          
+ 262             	116.79          	267.92          
+ 263             	107.94          	293.14          
+ 264             	100.19          	321.47          
+ 265             	104.69          	332.48          
+ 266             	109.42          	346.86          
+ 267             	122.06          	387.42          
+ 268             	124.62          	393.29          
+ 269             	138.89          	419.73          
+ 270             	144.84          	431.71          
+ 271             	148.38          	439.23          
+ 272             	152.36          	447.42          
+ 273             	156.12          	459.65          
+ 274             	158.01          	466.56          
+ 275             	159.44          	475.08          
+ 276             	162.54          	489.68          
+ 277             	163.98          	495.76          
+ 278             	171.50          	528.20          
+ 279             	178.58          	543.45          
+ 280             	215.69          	605.23          
+ 281             	176.83          	621.48          
+ 282             	208.36          	654.01          
+ 283             	221.42          	681.00          
+ 284             	225.87          	692.41          
+ 285             	205.71          	716.18          
+ 286             	184.90          	728.75          
+ 287             	174.01          	721.63          
+ 288             	170.22          	719.99          
+ 289             	119.21          	688.53          
+ 290             	117.46          	686.84          
+ 291             	111.44          	682.41          
+ 292             	108.73          	680.45          
+ 293             	90.57           	666.77          
+ 294             	51.66           	642.06          
+ 295             	40.31           	642.55          
+ 296             	25.94           	644.04          
+ 297             	16.84           	643.42          
+ 298             	-8.38           	629.23          
+ 299             	-18.84          	622.43          
+ 300             	-32.33          	613.87          
+ 301             	-47.25          	604.37          
+ 302             	-78.60          	588.45          
+ 303             	-90.77          	586.71          
+ 304             	-96.66          	586.20          
+ 305             	-147.50         	586.56          
+ 306             	-164.38         	588.06          
+ 307             	-186.89         	535.97          
+ 308             	-187.11         	518.49          
+ 309             	-237.72         	419.92          
+ 310             	-250.13         	413.26          
+ 311             	-261.94         	392.24          
+ 312             	-272.84         	360.32          
+ 313             	-282.04         	333.32          
+ 314             	-286.23         	317.59          
+ 315             	-169.30         	320.18          
+ 316             	-131.20         	293.60          
+ 317             	-118.81         	283.76          
+ 318             	-69.25          	243.71          
+ 319             	-65.49          	239.72          
+ 320             	-52.43          	229.32          
+ 321             	-48.23          	226.45          
+ 322             	-35.39          	215.83          
+ 323             	-9.51           	193.92          
+ 324             	-155.08         	-18.92          
+ 325             	-149.29         	-10.44          
+ 326             	-142.49         	0.23            
+ 327             	-138.62         	6.31            
+ 328             	-137.48         	8.45            
+ 329             	-135.06         	29.77           
+ 330             	-129.86         	40.35           
+ 331             	-140.43         	49.84           
+ 332             	-133.92         	61.19           
+ 333             	-121.43         	80.69           
+ 334             	-118.15         	86.22           
+ 335             	-112.04         	96.01           
+ 336             	-79.80          	147.04          
+ 337             	-49.71          	193.26          
+ 338             	198.85          	753.58          
+ 339             	204.17          	762.84          
+ 340             	206.16          	770.71          
+ 341             	209.10          	780.57          
+ 342             	212.98          	796.74          
+ 343             	212.98          	799.72          
+ 344             	225.62          	852.15          
+ 345             	265.78          	942.76          
+ 346             	268.99          	950.39          
+ 347             	271.98          	957.36          
+ 348             	280.32          	975.60          
+ 349             	291.00          	997.18          
+ 350             	318.50          	1052.85         
+ 351             	321.63          	1058.16         
+ 352             	323.22          	1065.68         
+ 353             	331.21          	1106.35         
+ 354             	313.17          	1121.40         
+ 356             	289.38          	1141.59         
+ 357             	285.44          	1144.92         
+ 358             	276.09          	1194.46         
+ 359             	247.77          	1243.14         
+ 360             	280.52          	1344.03         
+ 361             	168.12          	1342.26         
+ 362             	149.53          	1401.56         
+ 363             	126.89          	1519.16         
+ 364             	185.79          	1621.72         
+ 365             	191.04          	1625.44         
+ 366             	210.44          	1633.65         
+ 367             	237.35          	1658.87         
+ 368             	250.50          	1656.61         
+ 369             	320.97          	1116.02         
+ 370             	256.43          	1649.79         
+ 371             	260.97          	1646.81         
+ 372             	270.47          	1653.67         
+ 373             	282.38          	1677.73         
+ 374             	287.82          	1681.79         
+ 375             	297.99          	1685.87         
+ 376             	302.66          	1687.84         
+ 377             	308.81          	1690.83         
+ 378             	324.03          	1696.53         
+ 379             	333.17          	1700.95         
+ 380             	340.10          	1704.29         
+ 381             	347.66          	1707.77         
+ 382             	354.41          	1711.41         
+ 383             	357.64          	1713.03         
+ 384             	367.16          	1718.00         
+ 385             	372.66          	1719.68         
+ 386             	385.29          	1722.25         
+ 387             	388.22          	1722.79         
+ 388             	412.75          	1726.38         
+ 389             	423.52          	1729.49         
+ 390             	426.69          	1729.85         
+ 391             	437.41          	1739.36         
+ 392             	448.77          	1748.63         
+ 393             	453.67          	1753.60         
+ 394             	466.54          	1764.13         
+ 395             	417.97          	1715.89         
+ 396             	469.15          	1659.67         
+ 397             	422.24          	1647.28         
+ 398             	453.22          	1619.84         
+ 399             	463.84          	1622.50         
+ 400             	475.34          	1625.15         
+ 401             	485.96          	1626.04         
+ 402             	492.16          	1628.69         
+ 403             	502.78          	1630.46         
+ 404             	518.71          	1634.89         
+ 405             	516.94          	1650.82         
+ 406             	461.88          	1701.93         
+ 407             	461.19          	1711.52         
+ 408             	563.85          	1580.90         
+ 409             	479.66          	1229.86         
+ 410             	434.52          	1205.96         
+ 411             	398.23          	1176.76         
+ 412             	509.55          	1808.62         
+ 413             	513.91          	1817.21         
+ 414             	521.91          	1830.02         
+ 415             	653.09          	1548.88         
+ 416             	661.58          	1546.31         
+ 417             	707.59          	1535.14         
+ 418             	715.56          	1533.79         
+ 419             	721.08          	1533.41         
+ 420             	736.29          	1531.96         
+ 421             	766.42          	1521.93         
+ 422             	800.72          	1515.18         
+ 423             	816.54          	1513.52         
+ 424             	838.88          	1509.10         
+ 425             	851.72          	1511.75         
+ 426             	856.81          	1516.29         
+ 427             	869.64          	1486.75         
+ 428             	882.36          	1506.66         
+ 429             	895.86          	1532.55         
+ 430             	943.54          	1623.38         
+ 432             	1009.92         	1827.83         
+ 433             	1009.04         	1912.80         
+ 434             	962.13          	1979.18         
+ 435             	955.93          	1992.45         
+ 436             	958.43          	2023.12         
+ 437             	958.06          	2031.52         
+ 438             	958.21          	2041.77         
+ 439             	960.85          	2051.22         
+ 440             	965.38          	2063.66         
+ 441             	967.50          	2067.60         
+ 442             	972.77          	2072.88         
+ 443             	992.82          	2100.61         
+ 444             	996.84          	2110.11         
+ 445             	997.50          	2114.28         
+ 446             	1000.27         	2121.69         
+ 447             	1010.79         	2130.20         
+ 448             	1027.07         	2138.29         
+ 449             	1036.39         	2143.69         
+ 450             	288.38          	1603.89         
+ 451             	297.23          	1609.23         
+ 452             	323.87          	1564.78         
+ 453             	-1014.21        	-45.56          
+ 454             	-1066.25        	59.32           
+ 455             	-1069.69        	61.99           
+ 456             	-1217.54        	104.95          
+ 457             	-1222.87        	113.64          
+ 458             	-1221.58        	116.44          
+ 459             	-1219.74        	120.52          
+ 460             	-1218.11        	124.10          
+ 461             	-1216.15        	127.07          
+ 462             	-1209.16        	135.19          
+ 463             	-1204.03        	141.51          
+ 464             	-1200.21        	146.30          
+ 465             	-1225.39        	115.43          
+ 466             	-1229.89        	118.37          
+ 467             	-1241.38        	127.69          
+ 468             	-1264.35        	159.28          
+ 469             	-1258.03        	206.06          
+ 470             	-1065.83        	79.42           
+ 471             	-1065.07        	83.45           
+ 472             	-1063.54        	92.34           
+ 473             	-167.02         	595.06          
+ 474             	-196.97         	617.14          
+ 475             	-255.61         	673.90          
+ 497             	-323.76         	-943.87         
+ 498             	-312.06         	-975.87         
+ 499             	-309.33         	-980.96         
+ 500             	-301.39         	-994.72         
+ 501             	-298.34         	-1000.10        
+ 502             	-295.25         	-1004.84        
+ 503             	-291.52         	-1011.87        
+ 504             	-287.80         	-1015.44        
+ 505             	-286.14         	-1019.97        
+ 506             	-280.16         	-1024.30        
+ 507             	-281.72         	-1031.49        
+ 508             	-282.77         	-1034.61        
+ 509             	-284.17         	-1042.56        
+ 510             	-285.34         	-1051.95        
+ 511             	-274.42         	-1051.88        
+ 512             	-262.53         	-1052.60        
+ 513             	-250.68         	-1053.77        
+ 514             	-226.52         	-1055.28        
+ 515             	-222.68         	-1057.34        
+ 516             	-235.67         	-1072.38        
+ 517             	-239.23         	-1075.73        
+ 518             	-250.30         	-1084.36        
+ 519             	-293.76         	-1051.82        
+ 520             	-315.69         	-1054.12        
+ 521             	-326.75         	-1055.23        
+ 522             	-331.03         	-1056.48        
+ 523             	-1218.44        	-492.46         
+ 524             	-762.65         	-1671.00        
+ 525             	-693.08         	-1707.65        
+ 526             	-697.29         	-1713.53        
+ 527             	-761.64         	-1782.23        
+ 528             	-340.35         	-1603.45        
+ 529             	-349.20         	-1615.84        
+ 530             	-358.94         	-1629.12        
+ 531             	-343.89         	-1637.97        
+ 532             	-335.93         	-1647.70        
+ 533             	-353.49         	-1309.99        
+ 534             	-454.19         	-1296.94        
+ 535             	-467.35         	-1296.18        
+ 536             	-358.23         	-1264.39        
+ 537             	-351.82         	-1242.66        
+ 538             	-350.53         	-1235.79        
+ 539             	-348.69         	-1224.31        
+ 540             	-343.13         	-1182.05        
+ 541             	-342.48         	-1173.60        
+ 542             	-342.98         	-1140.64        
+ 543             	-341.24         	-1104.70        
+ 544             	-340.99         	-1101.22        
+ 545             	-341.92         	-1092.94        
+ 546             	-340.48         	-1084.95        
+ 547             	-341.89         	-1079.19        
+ 548             	-345.56         	-1062.85        
+ 549             	-347.95         	-1055.24        
+ 550             	-349.98         	-1046.44        
+ 551             	-352.07         	-1038.54        
+ 552             	-352.72         	-1034.47        
+ 553             	-339.75         	-909.41         
+ 554             	-337.71         	-900.68         
+ 555             	-334.70         	-845.70         
+ 556             	-331.98         	-821.19         
+ 557             	-330.55         	-815.97         
+ 558             	-325.91         	-793.43         
+ 559             	-313.97         	-735.13         
+ 560             	-262.21         	-213.45         
+ 561             	-241.24         	-104.45         
+ 562             	-236.49         	-79.92          
+ 563             	-226.47         	-30.46          
+ 564             	-214.22         	-31.84          
+ 565             	-155.30         	-33.34          
+ 566             	-17.69          	197.98          
+ 567             	-23.93          	202.97          
+ 568             	-26.78          	205.28          
+ 569             	-32.40          	210.48          
+ 570             	-38.05          	215.46          
+ 571             	-99.01          	266.00          
+ 572             	-105.16         	254.15          
+ 573             	-145.58         	301.90          
+ 574             	-170.81         	318.27          
+ 575             	-140.76         	51.90           
+ 576             	15.98           	247.78          
+ 577             	-1003.96        	-18.65          
+ 578             	-1002.80        	-16.86          
+ 579             	-997.98         	-8.65           
+ 580             	-989.48         	5.98            
+ 581             	-985.33         	12.91           
+ 582             	-977.19         	26.40           
+ 583             	-974.78         	31.26           
+ 584             	-971.11         	38.36           
+ 585             	-1225.81        	111.81          
+ 586             	-1226.20        	108.16          
+ 587             	-1226.66        	103.39          
+ 588             	-1228.94        	51.33           
+ 589             	-1246.51        	130.45          
+ 590             	-1250.08        	132.56          
+ 591             	-1256.64        	140.11          
+ 592             	-1263.53        	152.18          
+ 593             	-1264.79        	156.87          
+ 594             	-1265.65        	161.05          
+ 595             	-1266.59        	166.44          
+ 596             	-1275.70        	180.17          
+ 597             	-1265.27        	224.74          
+ 634             	987.80          	1918.11         
+ 635             	965.67          	1934.04         
+ 636             	944.43          	1952.63         
+ 637             	983.37          	1929.61         
+ 638             	1001.51         	2123.53         
+ 639             	1011.11         	2131.98         
+ 640             	1018.81         	2152.89         
+ 641             	987.47          	2167.83         
+ 642             	1041.91         	2145.46         
+ 643             	1051.33         	2148.99         
+ 644             	1057.03         	2151.59         
+ 645             	1069.63         	2157.71         
+ 646             	1074.06         	2160.79         
+ 647             	1085.01         	2171.14         
+ 648             	1097.15         	2185.66         
+ 649             	1100.13         	2189.12         
+ 651             	-1191.72        	-669.08         
+ 652             	-1200.36        	-640.23         
+ 653             	-1208.81        	-579.89         
+ 654             	-1212.68        	-546.36         
+ 655             	-1221.16        	-486.33         
+ 656             	-318.89         	-967.97         
+ 657             	-315.04         	-974.85         
+ 658             	-312.53         	-980.11         
+ 659             	-309.83         	-984.82         
+ 660             	-304.71         	-993.94         
+ 661             	-301.24         	-998.72         
+ 662             	-298.41         	-1003.70        
+ 663             	-293.53         	-1013.30        
+ 664             	-289.90         	-1016.21        
+ 665             	175.32          	637.74          
+ 666             	178.09          	648.14          
+ 667             	397.54          	1184.49         
+ 668             	331.16          	1111.92         
+ 670             	855.37          	1493.17         
+ 671             	-1062.79        	98.34           
+ 672             	-1060.64        	110.57          
+ 673             	-1195.78        	152.55          
+ 674             	-1190.53        	158.26          
+ 675             	-1187.01        	163.37          
+ 676             	-29.83          	-63.85          
+ 677             	-18.20          	-40.59          
+ 678             	0.98            	-12.38          
+ 679             	16.40           	-5.24           
+ 681             	291.90          	999.35          
+ 682             	287.75          	998.67          
+ 683             	288.58          	1000.90         
+ 684             	880.59          	1504.01         
+ 685             	882.92          	1502.68         
+ 686             	885.13          	1505.23         
+ 43              	-1282.81        	-1224.89        
+ 44              	-1229.70        	-1156.74        
+ 476             	-1070.92        	60.77           
+ 477             	-1067.49        	57.93           
+ 478             	-142.82         	-26.94          
+ 479             	-143.37         	-25.75          
+ 42              	-322.00         	-665.05         
+ 161             	-233.88         	-189.74         
+ 163             	-230.56         	-163.23         
+ 165             	-220.17         	-112.69         
+ 170             	-194.44         	-47.89          
+ 179             	-201.50         	-2.19           
+ 48              	-382.96         	-341.34         
+ 61              	-944.52         	-150.34         
+ 74              	-1157.29        	-645.83         
+ 355             	280.31          	1095.81         
+ 431             	957.70          	1758.80         
+
+[VERTICES]
+;Link            	X-Coord         	Y-Coord
+ 47              	-348.93         	-263.47         
+ 48              	-541.88         	-233.82         
+ 48              	-577.28         	-235.15         
+ 246             	131.90          	139.47          
+ 246             	135.89          	186.38          
+ 246             	93.40           	323.57          
+ 246             	113.66          	383.95          
+ 246             	132.69          	433.96          
+ 246             	168.09          	550.79          
+ 246             	203.49          	613.63          
+ 246             	199.07          	663.19          
+ 246             	217.65          	693.28          
+ 249             	146.88          	137.37          
+ 249             	146.88          	190.70          
+ 257             	217.65          	604.67          
+ 257             	210.35          	650.47          
+ 257             	231.37          	696.71          
+ 335             	-130.66         	21.52           
+ 420             	534.31          	1622.61         
+ 420             	536.75          	1611.32         
+ 425             	709.55          	1541.40         
+ 684             	520.37          	1271.24         
+ 421             	526.57          	1265.93         
+
+[LABELS]
+;X-Coord           Y-Coord          Label & Anchor Node
+
+[BACKDROP]
+ DIMENSIONS     	-2710.00        	-2710.00        	14000.00        	14000.00        
+ UNITS          	None
+ FILE           	C:\Users\Usuario\Desktop\Mestrado\Artigos\Artigo Leandro\Redes a serem estudadas\Florianópolis\Florianópolis.wmf
+ OFFSET         	21.46           	9127.34         
+
+[END]

@@ -1,0 +1,465 @@
+[TITLE]
+Richmond Skelton Water Supply System
+For more information on this network, see the file Richmond_readme.text distributed 
+with this network, or email Kobus van Zyl at jevz@ing.rau.ac.za or kobusvanzyl@mail.com
+
+[JUNCTIONS]
+;ID               Elev          Demand        Pattern         
+ 4                183           0                               ;
+ 9                68.85         0                               ;
+ 10               166.42        5.68          domestic          ;
+ 42               60            3.68          domestic          ;
+ 104              184           0                               ;
+ 164              65            0                               ;
+ 175              65            0                               ;
+ 186              112.18        0                               ;
+ 197              115           0                               ;
+ 206              134.99        0                               ;
+ 249              101           11.3          domestic          ;
+ 264              184           0                               ;
+ 284              186           0                               ;
+ 312              242           2.13          domestic          ;
+ 320              242           0                               ;
+ 321              242           0                               ;
+ 325              242           3.71          domestic          ;
+ 353              185.78        0                               ;
+ 364              217           0                               ;
+ 632              69            0                               ;
+ 633              69            0                               ;
+ 634              139.02        0                               ;
+ 635              139.82        0                               ;
+ 636              139.82        0                               ;
+ 637              140           1             domestic          ;
+ 701              198.33        .11           domestic          ;
+ 729              202.15        0                               ;
+ 745              177           1.42          domestic          ;
+ 753              177           .1            domestic          ;
+ 766              69.7          0                               ;
+ 768              69.59         0                               ;
+ 770              69.39         0                               ;
+ 771              69            0                               ;
+ 1125             184           0                               ;
+ 1302             216.65        16.25         domestic          ;
+ 1963             70            0                               ;
+ 2009             70            0                               ;
+ 1250             186           0                               ;
+ 774              188           0                               ;
+ 2010             69            0                               ;
+ 777              100           -9.16                           ;
+
+[RESERVOIRS]
+;ID               Head          Pattern         
+ O                1             40                ;
+
+[TANKS]
+;ID               Elevation     InitLevel     MinLevel      MaxLevel      Diameter      MinVol        VolCurve
+ C                258.9         0.42          0             2             6.6           0                               ;
+ A                184.13        1.82          0.00          3.37          23.5          0                               ;
+ D                241.18        2.07          0.00          2.11          11.8          0                               ;
+ B                216           1.30          0.00          3.37          15.4          0                               ;
+ E                203.01        2.68          0.00          2.69          8             0                               ;
+ F                235.71        1.91          0.00          2.19          3.6           0                               ;
+
+[PIPES]
+;ID               Node1             Node2             Length        Diameter      Roughness     MinorLoss     Status
+ 788              A                 4                 18            150           120           0             Open    ;
+ 790              4                 10                401           150           120           0             Open    ;
+ 793              4                 104               18            150           120           0             Open    ;
+ 794              9                 42                1087          300           140           0             Open    ;
+ 841              42                164               3002          250           140           0             Open    ;
+ 911              104               206               846           152           110           0             Open    ;
+ 912              104               264               44            100           100           0             Open    ;
+ 993              164               175               18            250           130           0             Open    ;
+ 1020             186               197               5             250           140           0             Open    ;
+ 1033             164               197               16            250           137.5         0             CV      ;
+ 1036             197               284               2003          250           130           0             Open    ;
+ 1085             206               249               30            76            80            0             Open    ;
+ 1107             249               634               6             100           70            0             Open    ;
+ 1153             284               1250              13            200           130           0             Open    ;
+ 1154             1125              312               1261          150           100           0             CV      ;
+ 1178             284               774               18            229           75            0             Open    ;
+ 1196             312               D                 15            100           30            0             CV      ;
+ 1208             320               321               7             80            90            0             Open    ;
+ 1209             320               325               3             150           100           0             Open    ;
+ 1210             321               312               23            150           100           0             CV      ;
+ 1278             353               364               472           200           130           0             Open    ;
+ 1301             B                 1302              10            152           70            0             Open    ;
+ 1304             B                 364               7             152           70            0             Open    ;
+ 1638             632               633               5             300           120           0             Open    ;
+ 1645             634               635               2             100           130           0             Open    ;
+ 1653             636               637               1             100           120           0             CV      ;
+ 1677             2010              770               5             300           120           0             CV      ;
+ 1740             637               C                 4028          100           130           0             Open    ;
+ 1752             321               701               365           150           140           0             Open    ;
+ 1753             701               729               5612          152           110           0             Open    ;
+ 1783             729               E                 1591          76            70            0             CV      ;
+ 1793             E                 745               444           102           70            0             CV      ;
+ 1832             753               F                 1216          76            87.5          0             Open    ;
+ 1842             766               768               5             300           150           0             Open    ;
+ 1844             768               770               4             300           150           0             Open    ;
+ 1848             770               771               5             300           150           0             Open    ;
+ 1849             771               9                 26            150           100           0             Open    ;
+ 1879             774               A                 1             150           100           0             Open    ;
+ 1913             O                 632               8             300           120           0             Open    ;
+ 1964             633               1963              4             150           100           0             Open    ;
+ 1978             D                 320               17            150           100           0             Open    ;
+ 2010             632               2009              4             150           100           0             Open    ;
+ p1               633               2010              1             300           120           0             Open    ;
+ p2               777               A                 20            200           100           0             Open    ;
+
+[PUMPS]
+;ID               Node1             Node2             Parameters
+ 7F               745               753               HEAD 1883 PATTERN  ;
+ 1963-768         1963              768               HEAD 2007 PATTERN  ;;
+ 5C               635               636               HEAD 1884 PATTERN  ;;
+ 6D               264               1125              HEAD 1123 PATTERN  ;;
+ 175-186          175               186               HEAD 1006 PATTERN  ;;
+ 4B               1250              353               HEAD 1881 PATTERN  ;;
+ 2009-766         2009              766               HEAD 2007 PATTERN  ;;
+
+[VALVES]
+;ID               Node1             Node2             Diameter      Type  Setting       MinorLoss   
+
+[TAGS]
+
+[DEMANDS]
+;Junction         Demand        Pattern           Category
+
+[STATUS]
+;ID               Status/Setting
+ 7F               Closed
+ 1963-768         Closed
+ 5C               Closed
+ 6D               Closed
+ 175-186          Closed
+ 4B               Closed
+ 2009-766         Closed
+
+[PATTERNS]
+;ID               Multipliers
+;
+ Fac_11           1           
+;
+ CBTariff         2.40925       2.40925       2.40925       2.40925       2.40925       2.40925     
+ CBTariff         2.40925       6.7945        6.7945        6.7945        6.7945        6.7945      
+ CBTariff         6.7945        6.7945        6.7945        6.7945        6.7945        6.7945      
+ CBTariff         6.7945        6.7945        6.7945        6.7945        6.7945        6.7945      
+;
+ HHTariff         2.46          2.46          2.46          2.46          2.46          2.46        
+ HHTariff         2.46          9.866         9.866         9.866         9.866         9.866       
+ HHTariff         9.866         9.866         9.866         9.866         9.866         9.866       
+ HHTariff         9.866         9.866         9.866         9.866         9.866         9.866       
+;
+ LZGTariff        2.460         2.460         2.460         2.460         2.460         2.460       
+ LZGTariff        2.460         11.195        11.195        11.195        11.195        11.195      
+ LZGTariff        11.195        11.195        11.195        11.195        11.195        11.195      
+ LZGTariff        11.195        11.195        11.195        11.195        11.195        11.195      
+;
+ LZHZTariff       2.456666667   2.456666667   2.456666667   2.456666667   2.456666667   2.456666667 
+ LZHZTariff       2.456666667   12.34         12.34         12.34         12.34         12.34       
+ LZHZTariff       12.34         12.34         12.34         12.34         12.34         12.34       
+ LZHZTariff       12.34         12.34         12.34         12.34         12.34         12.34       
+;
+ STariff          2.44          2.44          2.44          2.44          2.44          2.44        
+ STariff          2.44          11.94         11.94         11.94         11.94         11.94       
+ STariff          11.94         11.94         11.94         11.94         11.94         11.94       
+ STariff          11.94         11.94         11.94         11.94         11.94         11.94       
+;
+ STTariff         2.41          2.41          2.41          2.41          2.41          2.41        
+ STTariff         2.41          7.535         7.535         7.535         7.535         7.535       
+ STTariff         7.535         7.535         7.535         7.535         7.535         7.535       
+ STTariff         7.535         7.535         7.535         7.535         7.535         7.535       
+;
+ 40               70.33         69.55         69.42         69.42         70.33         70.33       
+ 40               70.33         70.33         70.33         70.33         70.29         70.29       
+ 40               70.33         70.42         70.42         70.37         69.64         69.68       
+ 40               69.68         70.42         70.37         70.33         70.33         70.33       
+;
+ domestic         1.10          1.61          1.53          1.4           1.15          1.06        
+ domestic         1.04          1             .92           .95           1.16          1.34        
+ domestic         1.45          1.32          1.33          1.11          1.07          .71         
+ domestic         .48           .46           .4            .39           .41           .52         
+;
+
+[CURVES]
+;ID               X-Value       Y-Value
+;BOMBA: PUMP:   
+ 1006             60            27          
+;BOMBA: PUMP:   
+ 1123             11            63          
+;PUMP: PUMP:   
+ 1641             0             146.000     
+ 1641             10            145.000     
+ 1641             15            144.000     
+ 1641             20            143.000     
+ 1641             25            141.000     
+ 1641             30            138.000     
+ 1641             35            133.000     
+ 1641             40            127.000     
+ 1641             45            120.000     
+ 1641             50            108.000     
+;PUMP: PUMP:   
+ 1659             0             122.000     
+ 1659             2.22          120.000     
+ 1659             2.78          118.000     
+ 1659             3.33          115.000     
+ 1659             3.89          110.000     
+ 1659             4.44          105.000     
+ 1659             5             96.000      
+ 1659             5.55          85.000      
+ 1659             6.11          72.000      
+;PUMP: PUMP:   
+ 1691             0             129         
+ 1691             10            128         
+ 1691             15            127         
+ 1691             20            126         
+ 1691             25            124         
+ 1691             30            121         
+ 1691             35            116         
+ 1691             40            110         
+ 1691             45            103         
+ 1691             50            91          
+;BOMBA: PUMP:   
+ 1881             55.5          30          
+;BOMBA: PUMP:   
+ 1883             250           27.75       
+;BOMBA: PUMP:   
+ 1884             5             99          
+;PUMP: PUMP:   
+ 1948             0             20.00       
+ 1948             0.4           19.00       
+ 1948             0.8           16.00       
+ 1948             1.2           13.00       
+ 1948             1.6           11.00       
+ 1948             2             7.00        
+;BOMBA: PUMP:   
+ 2007             45            102         
+;PUMP: PUMP:   
+ 2015             0             129         
+ 2015             10            128         
+ 2015             15            127         
+ 2015             20            126         
+ 2015             25            124         
+ 2015             30            121         
+ 2015             35            116         
+ 2015             40            110         
+ 2015             45            103         
+ 2015             50            91          
+;RENDIMENTO: EFFICIENCY:  
+ HHEfficiency     0             0           
+ HHEfficiency     1.1           0           
+ HHEfficiency     1.5           48          
+ HHEfficiency     2             57          
+ HHEfficiency     2.5           62          
+ HHEfficiency     3             67          
+ HHEfficiency     3.5           71          
+ HHEfficiency     4.5           71          
+ HHEfficiency     5             69          
+ HHEfficiency     5.5           67          
+ HHEfficiency     6             62          
+;RENDIMENTO: EFFICIENCY:  
+ CBNEfficiency    0             0           
+ CBNEfficiency    20            57          
+ CBNEfficiency    25            65          
+ CBNEfficiency    30            71          
+ CBNEfficiency    35            75          
+ CBNEfficiency    40            75          
+ CBNEfficiency    45            75          
+ CBNEfficiency    50            73          
+;RENDIMENTO: EFFICIENCY:  
+ CBOEfficiency    0             0           
+ CBOEfficiency    20            57          
+ CBOEfficiency    25            65          
+ CBOEfficiency    30            71          
+ CBOEfficiency    35            75          
+ CBOEfficiency    40            75          
+ CBOEfficiency    45            72          
+ CBOEfficiency    50            70          
+;RENDIMENTO: EFFICIENCY:  
+ LZGEfficiency    0             0           
+ LZGEfficiency    2.7           32          
+ LZGEfficiency    5.5           50          
+ LZGEfficiency    8.3           55          
+ LZGEfficiency    11.11         58          
+ LZGEfficiency    13.8          47          
+;RENDIMENTO: EFFICIENCY:  
+ LZHZEfficiency   0             0           
+ LZHZEfficiency   10            40          
+ LZHZEfficiency   20            50          
+ LZHZEfficiency   30            61          
+ LZHZEfficiency   40            68          
+ LZHZEfficiency   50            71          
+ LZHZEfficiency   60            72          
+ LZHZEfficiency   70            72          
+ LZHZEfficiency   80            71          
+ LZHZEfficiency   90            68          
+ LZHZEfficiency   100           61          
+ LZHZEfficiency   110           50          
+ LZHZEfficiency   120           40          
+;RENDIMENTO: EFFICIENCY:  
+ SEfficiency      0             0           
+ SEfficiency      1.38          31          
+ SEfficiency      2.7           48          
+ SEfficiency      4.6           54          
+ SEfficiency      5.5           54          
+ SEfficiency      6.94          43          
+;RENDIMENTO: EFFICIENCY:  
+ STEfficiency     0             0           
+ STEfficiency     20            34          
+ STEfficiency     40            58          
+ STEfficiency     60            72          
+ STEfficiency     80            77          
+
+[CONTROLS]
+
+[RULES]
+
+
+[ENERGY]
+ Global Efficiency    75
+ Global Price         0
+ Demand Charge        0
+ Pump   7F                Efficiency  SEfficiency
+ Pump   7F                Price       .01
+ Pump   7F                Pattern     STariff
+ Pump   1963-768          Efficiency  CBNEfficiency
+ Pump   1963-768          Price       .01
+ Pump   1963-768          Pattern     CBTariff
+ Pump   5C                Efficiency  HHEfficiency
+ Pump   5C                Price       .01
+ Pump   6D                Efficiency  LZGEfficiency
+ Pump   6D                Price       .01
+ Pump   6D                Pattern     LZGTariff
+ Pump   175-186           Efficiency  STEfficiency
+ Pump   175-186           Price       .01
+ Pump   175-186           Pattern     STTariff
+ Pump   4B                Efficiency  LZHZEfficiency
+ Pump   4B                Price       .01
+ Pump   4B                Pattern     LZHZTariff
+ Pump   2009-766          Efficiency  CBOEfficiency
+ Pump   2009-766          Price       .01
+ Pump   2009-766          Pattern     CBTariff
+
+[EMITTERS]
+;Junction         Coefficient
+
+[QUALITY]
+;Node             InitQual
+
+[SOURCES]
+;Node             Type          Quality       Pattern
+
+[REACTIONS]
+;Type       Pipe/Tank         Coefficient
+
+
+[REACTIONS]
+ Order Bulk             1
+ Order Tank             1
+ Order Wall             1
+ Global Bulk            0
+ Global Wall            0
+ Limiting Potential     0
+ Roughness Correlation  0
+
+[MIXING]
+;Tank             Model
+
+[TIMES]
+ Duration             24:00 
+ Hydraulic Timestep   1:00 
+ Quality Timestep     0:05 
+ Pattern Timestep     1:00 
+ Pattern Start        0:00 
+ Report Timestep      1:00 
+ Report Start         0:00 
+ Start ClockTime      7 am
+ Statistic            NONE
+
+[REPORT]
+ Status               No
+ Summary              No
+ Page                 0
+
+[OPTIONS]
+ Units                LPS
+ Headloss             H-W
+ Specific Gravity     1
+ Viscosity            1
+ Trials               200
+ Accuracy             0.001
+ CHECKFREQ            2
+ MAXCHECK             10
+ DAMPLIMIT            0
+ Unbalanced           Stop
+ Pattern              Fac_11
+ Demand Multiplier    1.0
+ Emitter Exponent     0.5
+ Quality              None mg/L
+ Diffusivity          1
+ Tolerance            0.01
+
+[COORDINATES]
+;Node             X-Coord           Y-Coord
+ 4                417307159.01      501218420.09    
+ 9                419929996.66      499888530.58    
+ 10               418009045.15      500085551.24    
+ 42               418944893.32      499654568.53    
+ 104              417023941.80      500368768.45    
+ 164              419299666.76      500628091.67    
+ 175              419495513.69      501105468.56    
+ 186              418524192.00      501357504.00    
+ 197              418332672.55      500774976.87    
+ 206              416876176.30      499753078.87    
+ 249              415891072.96      499876216.78    
+ 264              416484367.17      500983064.23    
+ 284              418045986.52      501747913.13    
+ 312              416839234.93      503274823.32    
+ 320              416186603.96      504530830.08    
+ 321              416198917.75      503361019.86    
+ 325              415385760.00      504089056.00    
+ 353              417916497.83      503039456.97    
+ 364              417889996.25      503595612.78    
+ 632              423230092.86      501550892.47    
+ 633              423033072.19      500824378.75    
+ 634              415386207.50      500085551.24    
+ 635              414795145.49      500097865.04    
+ 636              414031690.40      499974727.12    
+ 637              413145097.39      499839275.41    
+ 701              415841817.79      502265092.39    
+ 729              415470304.00      501440736.00    
+ 745              413926116.67      502292790.56    
+ 753              413317490.48      501513951.09    
+ 766              421087493.09      502733016.48    
+ 768              420902786.21      501316930.42    
+ 770              421173689.63      499962413.33    
+ 771              420582627.63      499876216.78    
+ 1125             416751840.00      501745312.00    
+ 1302             419048320.00      504060864.00    
+ 1963             421838634.39      501169164.92    
+ 2009             422651344.65      502166582.05    
+ 1250             418735558.86      502560623.39    
+ 774              417836652.06      502314347.56    
+ 2010             422885306.69      499900844.37    
+ 777              417159393.51      502622192.35    
+ O                424424530.66      501563206.26    
+ C                412159994.05      499876216.78    
+ A                417331786.60      501821795.88    
+ D                417036255.59      504617026.62    
+ B                417930933.18      504659973.01    
+ E                414562619.18      501448200.68    
+ F                412443211.26      501378499.38    
+
+[VERTICES]
+;Link             X-Coord           Y-Coord
+
+[LABELS]
+;X-Coord           Y-Coord          Label & Anchor Node
+
+[BACKDROP]
+ DIMENSIONS       408638249.60      499335350.40      423020758.40      502165641.60    
+ UNITS            None
+ FILE             
+ OFFSET           0.00              0.00            
+
+[END]
